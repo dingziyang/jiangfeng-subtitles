@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190201第275期 - 延安整風 | [简体字幕](zh-CN/201902/e275.srt?raw=true) | [简体文字稿](zh-CN/201902/e275.txt?raw=true) | [正體字幕](zh-CN/201902/e275.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e275.tw.txt?raw=true) |
 |  歷史上的今天20190131第274期 - 漢字簡化 | [简体字幕](zh-CN/201901/e274.srt?raw=true) | [简体文字稿](zh-CN/201901/e274.txt?raw=true) | [正體字幕](zh-CN/201901/e274.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e274.tw.txt?raw=true) |
 |  歷史上的今天20190130第273期 - 羅密歐與茱麗葉 | [简体字幕](zh-CN/201901/e273.srt?raw=true) | [简体文字稿](zh-CN/201901/e273.txt?raw=true) | [正體字幕](zh-CN/201901/e273.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e273.tw.txt?raw=true) |
 |  歷史上的今天0129第272期 - 鄧麗君 | [简体字幕](zh-CN/201901/e272.srt?raw=true) | [简体文字稿](zh-CN/201901/e272.txt?raw=true) | [正體字幕](zh-CN/201901/e272.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e272.tw.txt?raw=true) |
