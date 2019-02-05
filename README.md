@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190205第277期 - 《讀者文摘》 | [简体字幕](zh-CN/201902/e277.srt?raw=true) | [简体文字稿](zh-CN/201902/e277.txt?raw=true) | [文字图](imgs/e277.png?raw=true) | [正體字幕](zh-CN/201902/e277.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e277.tw.txt?raw=true) |
 |  歷史上的今天20190204第276期 - 查韋斯政變 | [简体字幕](zh-CN/201902/e276.srt?raw=true) | [简体文字稿](zh-CN/201902/e276.txt?raw=true) | [文字图](imgs/e276.png?raw=true) | [正體字幕](zh-CN/201902/e276.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e276.tw.txt?raw=true) |
 |  《週末漫談》20190202第10期 | [简体字幕](zh-CN/201902/w010.srt?raw=true) | [简体文字稿](zh-CN/201902/w010.txt?raw=true) | [文字图](imgs/w010.png?raw=true) | [正體字幕](zh-CN/201902/w010.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/w010.tw.txt?raw=true) |
 |  江峰劇場：《中情局的紅色鼴鼠》（一） | [简体字幕](zh-CN/201902/s001.srt?raw=true) | [简体文字稿](zh-CN/201902/s001.txt?raw=true) | [文字图](imgs/s001.png?raw=true) | [正體字幕](zh-CN/201902/s001.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s001.tw.txt?raw=true) |
