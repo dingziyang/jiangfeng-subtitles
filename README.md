@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190207第279期 - “天运号” 越南船民投奔香港 | [简体字幕](zh-CN/201902/e279.srt?raw=true) | [简体文字稿](zh-CN/201902/e279.txt?raw=true) | [文字图](imgs/e279.png?raw=true) | [正體字幕](zh-CN/201902/e279.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e279.tw.txt?raw=true) |
 |  歷史上的今天20190206第278期 - 王立軍夜闖美領館 | [简体字幕](zh-CN/201902/e278.srt?raw=true) | [简体文字稿](zh-CN/201902/e278.txt?raw=true) | [文字图](imgs/e278.png?raw=true) | [正體字幕](zh-CN/201902/e278.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e278.tw.txt?raw=true) |
 |  歷史上的今天20190205第277期 - 《讀者文摘》 | [简体字幕](zh-CN/201902/e277.srt?raw=true) | [简体文字稿](zh-CN/201902/e277.txt?raw=true) | [文字图](imgs/e277.png?raw=true) | [正體字幕](zh-CN/201902/e277.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e277.tw.txt?raw=true) |
 |  歷史上的今天20190204第276期 - 查韋斯政變 | [简体字幕](zh-CN/201902/e276.srt?raw=true) | [简体文字稿](zh-CN/201902/e276.txt?raw=true) | [文字图](imgs/e276.png?raw=true) | [正體字幕](zh-CN/201902/e276.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e276.tw.txt?raw=true) |
