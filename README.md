@@ -4,6 +4,8 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190210第281期 - 莊則棟與乒乓外交 | [简体字幕](zh-CN/201902/e281.srt?raw=true) | [简体文字稿](zh-CN/201902/e281.txt?raw=true) | [文字图](imgs/e281.png?raw=true) | [正體字幕](zh-CN/201902/e281.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e281.tw.txt?raw=true) |
+|  《週末漫談》20190210第11期 | [简体字幕](zh-CN/201902/w011.srt?raw=true) | [简体文字稿](zh-CN/201902/w011.txt?raw=true) | [文字图](imgs/w011.png?raw=true) | [正體字幕](zh-CN/201902/w011.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/w011.tw.txt?raw=true) |
 |  江峰劇場：《中情局的紅色鼴鼠》（二） | [简体字幕](zh-CN/201902/s002.srt?raw=true) | [简体文字稿](zh-CN/201902/s002.txt?raw=true) | [文字图](imgs/s002.png?raw=true) | [正體字幕](zh-CN/201902/s002.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s002.tw.txt?raw=true) |
 |  歷史上的今天20190208第280期 - 春晚來歷 | [简体字幕](zh-CN/201902/e280.srt?raw=true) | [简体文字稿](zh-CN/201902/e280.txt?raw=true) | [文字图](imgs/e280.png?raw=true) | [正體字幕](zh-CN/201902/e280.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e280.tw.txt?raw=true) |
 |  歷史上的今天20190207第279期 - “天运号” 越南船民投奔香港 | [简体字幕](zh-CN/201902/e279.srt?raw=true) | [简体文字稿](zh-CN/201902/e279.txt?raw=true) | [文字图](imgs/e279.png?raw=true) | [正體字幕](zh-CN/201902/e279.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e279.tw.txt?raw=true) |
