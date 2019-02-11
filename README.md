@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190212第282期 - 三鹿毒奶粉 | [简体字幕](zh-CN/201902/e282.srt?raw=true) | [简体文字稿](zh-CN/201902/e282.txt?raw=true) | [文字图](imgs/e282.png?raw=true) | [正體字幕](zh-CN/201902/e282.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e282.tw.txt?raw=true) |
 |  歷史上的今天20190210第281期 - 莊則棟與乒乓外交 | [简体字幕](zh-CN/201902/e281.srt?raw=true) | [简体文字稿](zh-CN/201902/e281.txt?raw=true) | [文字图](imgs/e281.png?raw=true) | [正體字幕](zh-CN/201902/e281.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e281.tw.txt?raw=true) |
 |  《週末漫談》20190210第11期 | [简体字幕](zh-CN/201902/w011.srt?raw=true) | [简体文字稿](zh-CN/201902/w011.txt?raw=true) | [文字图](imgs/w011.png?raw=true) | [正體字幕](zh-CN/201902/w011.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/w011.tw.txt?raw=true) |
 |  江峰劇場：《中情局的紅色鼴鼠》（二） | [简体字幕](zh-CN/201902/s002.srt?raw=true) | [简体文字稿](zh-CN/201902/s002.txt?raw=true) | [文字图](imgs/s002.png?raw=true) | [正體字幕](zh-CN/201902/s002.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s002.tw.txt?raw=true) |
