@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  江峰劇場：中央情報局的紅色鼴鼠（三） | [简体字幕](zh-CN/201902/s003.srt?raw=true) | [简体文字稿](zh-CN/201902/s003.txt?raw=true) | [文字图](imgs/s003.png?raw=true) | [正體字幕](zh-CN/201902/s003.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s003.tw.txt?raw=true) |
 |  歷史上的今天20190215第285期 - 末日忠臣李鴻章 | [简体字幕](zh-CN/201902/e285.srt?raw=true) | [简体文字稿](zh-CN/201902/e285.txt?raw=true) | [文字图](imgs/e285.png?raw=true) | [正體字幕](zh-CN/201902/e285.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e285.tw.txt?raw=true) |
 |  歷史上的今天20190214第284期 - YouTube创立 | [简体字幕](zh-CN/201902/e284.srt?raw=true) | [简体文字稿](zh-CN/201902/e284.txt?raw=true) | [文字图](imgs/e284.png?raw=true) | [正體字幕](zh-CN/201902/e284.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e284.tw.txt?raw=true) |
 |  歷史上的今天20190213第283期 - 澳洲被偷走的一代人 | [简体字幕](zh-CN/201902/e283.srt?raw=true) | [简体文字稿](zh-CN/201902/e283.txt?raw=true) | [文字图](imgs/e283.png?raw=true) | [正體字幕](zh-CN/201902/e283.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e283.tw.txt?raw=true) |
