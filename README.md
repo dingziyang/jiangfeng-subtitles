@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190218第286期 - 援外八項原則 | [简体字幕](zh-CN/201902/e286.srt?raw=true) | [简体文字稿](zh-CN/201902/e286.txt?raw=true) | [文字图](imgs/e286.png?raw=true) | [正體字幕](zh-CN/201902/e286.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e286.tw.txt?raw=true) |
 |  《週末漫談》20190216第12期 | [简体字幕](zh-CN/201902/w012.srt?raw=true) | [简体文字稿](zh-CN/201902/w012.txt?raw=true) | [文字图](imgs/w012.png?raw=true) | [正體字幕](zh-CN/201902/w012.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/w012.tw.txt?raw=true) |
 |  江峰劇場：中央情報局的紅色鼴鼠（三） | [简体字幕](zh-CN/201902/s003.srt?raw=true) | [简体文字稿](zh-CN/201902/s003.txt?raw=true) | [文字图](imgs/s003.png?raw=true) | [正體字幕](zh-CN/201902/s003.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s003.tw.txt?raw=true) |
 |  歷史上的今天20190215第285期 - 末日忠臣李鴻章 | [简体字幕](zh-CN/201902/e285.srt?raw=true) | [简体文字稿](zh-CN/201902/e285.txt?raw=true) | [文字图](imgs/e285.png?raw=true) | [正體字幕](zh-CN/201902/e285.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e285.tw.txt?raw=true) |
