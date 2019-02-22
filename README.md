@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|今天一直到晚上都有事，字幕会晚些时候或明早发|---|---|---|---|---|
 |  歷史上的今天20190221第289期 - 聖女貞德 | [简体字幕](zh-CN/201902/e289.srt?raw=true) | [简体文字稿](zh-CN/201902/e289.txt?raw=true) | [文字图](imgs/e289.png?raw=true) | [正體字幕](zh-CN/201902/e289.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e289.tw.txt?raw=true) |
 |  歷史上的今天20190220第288期 - 《天鵝湖》首演 | [简体字幕](zh-CN/201902/e288.srt?raw=true) | [简体文字稿](zh-CN/201902/e288.txt?raw=true) | [文字图](imgs/e288.png?raw=true) | [正體字幕](zh-CN/201902/e288.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e288.tw.txt?raw=true) |
 |  歷史上的今天20190219第287期 - 二戰美國關押日裔美國人 | [简体字幕](zh-CN/201902/e287.srt?raw=true) | [简体文字稿](zh-CN/201902/e287.txt?raw=true) | [文字图](imgs/e287.png?raw=true) | [正體字幕](zh-CN/201902/e287.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e287.tw.txt?raw=true) |
