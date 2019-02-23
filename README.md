@@ -5,6 +5,7 @@
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
 |  《中情局的紅色鼴鼠》（四） | [简体字幕](zh-CN/201902/s004.srt?raw=true) | [简体文字稿](zh-CN/201902/s004.txt?raw=true) | [文字图](imgs/s004.png?raw=true) | [正體字幕](zh-CN/201902/s004.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s004.tw.txt?raw=true) |
+|第290期中的第50、90、101条字幕中的~是我不确定的地方，需要您修正一下|---|---|---|---|---|
 |  歷史上的今天20190222第290期 - 和珅 | [简体字幕](zh-CN/201902/e290.srt?raw=true) | [简体文字稿](zh-CN/201902/e290.txt?raw=true) | [文字图](imgs/e290.png?raw=true) | [正體字幕](zh-CN/201902/e290.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e290.tw.txt?raw=true) |
 |  歷史上的今天20190221第289期 - 聖女貞德 | [简体字幕](zh-CN/201902/e289.srt?raw=true) | [简体文字稿](zh-CN/201902/e289.txt?raw=true) | [文字图](imgs/e289.png?raw=true) | [正體字幕](zh-CN/201902/e289.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e289.tw.txt?raw=true) |
 |  歷史上的今天20190220第288期 - 《天鵝湖》首演 | [简体字幕](zh-CN/201902/e288.srt?raw=true) | [简体文字稿](zh-CN/201902/e288.txt?raw=true) | [文字图](imgs/e288.png?raw=true) | [正體字幕](zh-CN/201902/e288.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e288.tw.txt?raw=true) |
