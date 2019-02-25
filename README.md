@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190225第291期 - 中國遠征軍之殤 | [简体字幕](zh-CN/201902/e291.srt?raw=true) | [简体文字稿](zh-CN/201902/e291.txt?raw=true) | [文字图](imgs/e291.png?raw=true) | [正體字幕](zh-CN/201902/e291.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e291.tw.txt?raw=true) |
 |  《週末漫談》20190223第13期 | [简体字幕](zh-CN/201902/w013.srt?raw=true) | [简体文字稿](zh-CN/201902/w013.txt?raw=true) | [文字图](imgs/w013.png?raw=true) | [正體字幕](zh-CN/201902/w013.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/w013.tw.txt?raw=true) |
 |  《中情局的紅色鼴鼠》（四） | [简体字幕](zh-CN/201902/s004.srt?raw=true) | [简体文字稿](zh-CN/201902/s004.txt?raw=true) | [文字图](imgs/s004.png?raw=true) | [正體字幕](zh-CN/201902/s004.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/s004.tw.txt?raw=true) |
 |  歷史上的今天20190222第290期 - 和珅 | [简体字幕](zh-CN/201902/e290.srt?raw=true) | [简体文字稿](zh-CN/201902/e290.txt?raw=true) | [文字图](imgs/e290.png?raw=true) | [正體字幕](zh-CN/201902/e290.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e290.tw.txt?raw=true) |
