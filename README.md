@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|不懂第102条的山东方言，需要您补充一下|---|---|---|---|---|
 |  歷史上的今天20190228第294期 - 亨利·盧斯 | [简体字幕](zh-CN/201902/e294.srt?raw=true) | [简体文字稿](zh-CN/201902/e294.txt?raw=true) | [文字图](imgs/e294.png?raw=true) | [正體字幕](zh-CN/201902/e294.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e294.tw.txt?raw=true) |
 |  歷史上的今天20190227第293期 - LV 路易威登 | [简体字幕](zh-CN/201902/e293.srt?raw=true) | [简体文字稿](zh-CN/201902/e293.txt?raw=true) | [文字图](imgs/e293.png?raw=true) | [正體字幕](zh-CN/201902/e293.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e293.tw.txt?raw=true) |
 |  歷史上的今天20190226第292期 - 從海瑞罷官到八大樣板戲 | [简体字幕](zh-CN/201902/e292.srt?raw=true) | [简体文字稿](zh-CN/201902/e292.txt?raw=true) | [文字图](imgs/e292.png?raw=true) | [正體字幕](zh-CN/201902/e292.tw.srt?raw=true) | [正體文字稿](zh-CN/201902/e292.tw.txt?raw=true) |
