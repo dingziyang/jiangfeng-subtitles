@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190304第296期 - 黑船事件 | [简体字幕](zh-CN/201903/e296.srt?raw=true) | [简体文字稿](zh-CN/201903/e296.txt?raw=true) | [文字图](imgs/e296.png?raw=true) | [正體字幕](zh-CN/201903/e296.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e296.tw.txt?raw=true) |
 |  《週末漫談》20190303第14期 | [简体字幕](zh-CN/201903/w014.srt?raw=true) | [简体文字稿](zh-CN/201903/w014.txt?raw=true) | [文字图](imgs/w014.png?raw=true) | [正體字幕](zh-CN/201903/w014.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w014.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（五）- 戰俘密報 | [简体字幕](zh-CN/201903/s005.srt?raw=true) | [简体文字稿](zh-CN/201903/s005.txt?raw=true) | [文字图](imgs/s005.png?raw=true) | [正體字幕](zh-CN/201903/s005.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s005.tw.txt?raw=true) |
 |  歷史上的今天20190301第295期 - 黃石公園 | [简体字幕](zh-CN/201903/e295.srt?raw=true) | [简体文字稿](zh-CN/201903/e295.txt?raw=true) | [文字图](imgs/e295.png?raw=true) | [正體字幕](zh-CN/201903/e295.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e295.tw.txt?raw=true) |
