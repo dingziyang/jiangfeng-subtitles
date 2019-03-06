@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190306第298期 - 斯維特蘭娜 | [简体字幕](zh-CN/201903/e298.srt?raw=true) | [简体文字稿](zh-CN/201903/e298.txt?raw=true) | [文字图](imgs/e298.png?raw=true) | [正體字幕](zh-CN/201903/e298.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e298.tw.txt?raw=true) |
 |  歷史上的今天20190305第297期 - 卡廷慘案 | [简体字幕](zh-CN/201903/e297.srt?raw=true) | [简体文字稿](zh-CN/201903/e297.txt?raw=true) | [文字图](imgs/e297.png?raw=true) | [正體字幕](zh-CN/201903/e297.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e297.tw.txt?raw=true) |
 |  歷史上的今天20190304第296期 - 黑船事件 | [简体字幕](zh-CN/201903/e296.srt?raw=true) | [简体文字稿](zh-CN/201903/e296.txt?raw=true) | [文字图](imgs/e296.png?raw=true) | [正體字幕](zh-CN/201903/e296.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e296.tw.txt?raw=true) |
 |  《週末漫談》20190303第14期 | [简体字幕](zh-CN/201903/w014.srt?raw=true) | [简体文字稿](zh-CN/201903/w014.txt?raw=true) | [文字图](imgs/w014.png?raw=true) | [正體字幕](zh-CN/201903/w014.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w014.tw.txt?raw=true) |
