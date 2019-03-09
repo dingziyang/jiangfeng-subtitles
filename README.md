@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  《中央情報局的紅色鼴鼠》（六）諜影重重 | [简体字幕](zh-CN/201903/s006.srt?raw=true) | [简体文字稿](zh-CN/201903/s006.txt?raw=true) | [文字图](imgs/s006.png?raw=true) | [正體字幕](zh-CN/201903/s006.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s006.tw.txt?raw=true) |
 |  歷史上的今天20190308第300期 - 三八婦女節 | [简体字幕](zh-CN/201903/e300.srt?raw=true) | [简体文字稿](zh-CN/201903/e300.txt?raw=true) | [文字图](imgs/e300.png?raw=true) | [正體字幕](zh-CN/201903/e300.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e300.tw.txt?raw=true) |
 |  歷史上的今天20190307第299期 - 亨利八世宗教改革 | [简体字幕](zh-CN/201903/e299.srt?raw=true) | [简体文字稿](zh-CN/201903/e299.txt?raw=true) | [文字图](imgs/e299.png?raw=true) | [正體字幕](zh-CN/201903/e299.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e299.tw.txt?raw=true) |
 |  歷史上的今天20190306第298期 - 斯維特蘭娜 | [简体字幕](zh-CN/201903/e298.srt?raw=true) | [简体文字稿](zh-CN/201903/e298.txt?raw=true) | [文字图](imgs/e298.png?raw=true) | [正體字幕](zh-CN/201903/e298.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e298.tw.txt?raw=true) |
