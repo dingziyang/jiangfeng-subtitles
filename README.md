@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190312第302期 - 可口可樂 | [简体字幕](zh-CN/201903/e302.srt?raw=true) | [简体文字稿](zh-CN/201903/e302.txt?raw=true) | [文字图](imgs/e302.png?raw=true) | [正體字幕](zh-CN/201903/e302.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e302.tw.txt?raw=true) |
 |  歷史上的今天20190311第301期 - 高智晟和他的家 | [简体字幕](zh-CN/201903/e301.srt?raw=true) | [简体文字稿](zh-CN/201903/e301.txt?raw=true) | [文字图](imgs/e301.png?raw=true) | [正體字幕](zh-CN/201903/e301.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e301.tw.txt?raw=true) |
 |  《週末漫談》20190309第15期 | [简体字幕](zh-CN/201903/w015.srt?raw=true) | [简体文字稿](zh-CN/201903/w015.txt?raw=true) | [文字图](imgs/w015.png?raw=true) | [正體字幕](zh-CN/201903/w015.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w015.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（六）諜影重重 | [简体字幕](zh-CN/201903/s006.srt?raw=true) | [简体文字稿](zh-CN/201903/s006.txt?raw=true) | [文字图](imgs/s006.png?raw=true) | [正體字幕](zh-CN/201903/s006.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s006.tw.txt?raw=true) |
