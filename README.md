@@ -74,6 +74,7 @@
 |  歷史上的今天20190103第254期 - 艾偉德 | [简体字幕](zh-CN/201901/e254.srt?raw=true) | [简体文字稿](zh-CN/201901/e254.txt?raw=true) | [正體字幕](zh-CN/201901/e254.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e254.tw.txt?raw=true) |
 |  歷史上的今天20190102第253期 - 羅盛教 | [简体字幕](zh-CN/201901/e253.srt?raw=true) | [简体文字稿](zh-CN/201901/e253.txt?raw=true) | [正體字幕](zh-CN/201901/e253.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e253.tw.txt?raw=true) |
 |  歷史上的今天20190101第252期 - 歐元發行 | [简体字幕](zh-CN/201901/e252.srt?raw=true) | [简体文字稿](zh-CN/201901/e252.txt?raw=true) | [正體字幕](zh-CN/201901/e252.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e252.tw.txt?raw=true) |
+|  歷史上的今天20181225第247期 - -齊奧塞斯庫 | [简体字幕](zh-CN/201812/e247.srt?raw=true) | [简体文字稿](zh-CN/201812/e247.txt?raw=true) | [正體字幕](zh-CN/201812/e247.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e247.tw.txt?raw=true) |
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [简体字幕](zh-CN/201812/e251.srt?raw=true) | [简体文字稿](zh-CN/201812/e251.txt?raw=true) | [正體字幕](zh-CN/201812/e251.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e251.tw.txt?raw=true) |
 |  历史上的今天1203 第231期 - 庚子赔款 | [简体字幕](zh-CN/201812/e231.srt?raw=true) | [简体文字稿](zh-CN/201812/e231.txt?raw=true) | [正體字幕](zh-CN/201812/e231.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e231.tw.txt?raw=true) |
 |  歷史上的今天20181113 第217期 - 克林德牌坊 | [简体字幕](zh-CN/201811/e217.srt?raw=true) | [简体文字稿](zh-CN/201811/e217.txt?raw=true) | [正體字幕](zh-CN/201811/e217.tw.srt?raw=true) | [正體文字稿](zh-CN/201811/e217.tw.txt?raw=true) |
