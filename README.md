@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190315第305期 - 消費者權益日 | [简体字幕](zh-CN/201903/e305.srt?raw=true) | [简体文字稿](zh-CN/201903/e305.txt?raw=true) | [正體字幕](zh-CN/201903/e305.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e305.tw.txt?raw=true) |
 |  歷史上的今天20190314第304期 - 愛因斯坦 | [简体字幕](zh-CN/201903/e304.srt?raw=true) | [简体文字稿](zh-CN/201903/e304.txt?raw=true) | [正體字幕](zh-CN/201903/e304.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e304.tw.txt?raw=true) |
 |  歷史上的今天20190313第303期 - 哈佛大学 | [简体字幕](zh-CN/201903/e303.srt?raw=true) | [简体文字稿](zh-CN/201903/e303.txt?raw=true) | [正體字幕](zh-CN/201903/e303.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e303.tw.txt?raw=true) |
 |  歷史上的今天20190312第302期 - 可口可樂 | [简体字幕](zh-CN/201903/e302.srt?raw=true) | [简体文字稿](zh-CN/201903/e302.txt?raw=true) | [正體字幕](zh-CN/201903/e302.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e302.tw.txt?raw=true) |
