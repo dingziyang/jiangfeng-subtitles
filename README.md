@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  《中央情報局的紅色鼴鼠》（七）东窗事发 | [简体字幕](zh-CN/201903/e306.srt?raw=true) | [简体文字稿](zh-CN/201903/e306.txt?raw=true) | [正體字幕](zh-CN/201903/e306.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e306.tw.txt?raw=true) |
 |  歷史上的今天20190315第305期 - 消費者權益日 | [简体字幕](zh-CN/201903/e305.srt?raw=true) | [简体文字稿](zh-CN/201903/e305.txt?raw=true) | [正體字幕](zh-CN/201903/e305.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e305.tw.txt?raw=true) |
 |  歷史上的今天20190314第304期 - 愛因斯坦 | [简体字幕](zh-CN/201903/e304.srt?raw=true) | [简体文字稿](zh-CN/201903/e304.txt?raw=true) | [正體字幕](zh-CN/201903/e304.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e304.tw.txt?raw=true) |
 |  歷史上的今天20190313第303期 - 哈佛大学 | [简体字幕](zh-CN/201903/e303.srt?raw=true) | [简体文字稿](zh-CN/201903/e303.txt?raw=true) | [正體字幕](zh-CN/201903/e303.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e303.tw.txt?raw=true) |
@@ -74,7 +75,8 @@
 |  歷史上的今天20190103第254期 - 艾偉德 | [简体字幕](zh-CN/201901/e254.srt?raw=true) | [简体文字稿](zh-CN/201901/e254.txt?raw=true) | [正體字幕](zh-CN/201901/e254.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e254.tw.txt?raw=true) |
 |  歷史上的今天20190102第253期 - 羅盛教 | [简体字幕](zh-CN/201901/e253.srt?raw=true) | [简体文字稿](zh-CN/201901/e253.txt?raw=true) | [正體字幕](zh-CN/201901/e253.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e253.tw.txt?raw=true) |
 |  歷史上的今天20190101第252期 - 歐元發行 | [简体字幕](zh-CN/201901/e252.srt?raw=true) | [简体文字稿](zh-CN/201901/e252.txt?raw=true) | [正體字幕](zh-CN/201901/e252.tw.srt?raw=true) | [正體文字稿](zh-CN/201901/e252.tw.txt?raw=true) |
-|  歷史上的今天20181225第247期 - -齊奧塞斯庫 | [简体字幕](zh-CN/201812/e247.srt?raw=true) | [简体文字稿](zh-CN/201812/e247.txt?raw=true) | [正體字幕](zh-CN/201812/e247.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e247.tw.txt?raw=true) |
+|  歷史上的今天20181210第236期 - 77年恢復高考 | [简体字幕](zh-CN/201812/e236.srt?raw=true) | [简体文字稿](zh-CN/201812/e236.txt?raw=true) | [正體字幕](zh-CN/201812/e236.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e236.tw.txt?raw=true) |
+|  歷史上的今天20181225第247期 - 齊奧塞斯庫 | [简体字幕](zh-CN/201812/e247.srt?raw=true) | [简体文字稿](zh-CN/201812/e247.txt?raw=true) | [正體字幕](zh-CN/201812/e247.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e247.tw.txt?raw=true) |
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [简体字幕](zh-CN/201812/e251.srt?raw=true) | [简体文字稿](zh-CN/201812/e251.txt?raw=true) | [正體字幕](zh-CN/201812/e251.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e251.tw.txt?raw=true) |
 |  历史上的今天1203 第231期 - 庚子赔款 | [简体字幕](zh-CN/201812/e231.srt?raw=true) | [简体文字稿](zh-CN/201812/e231.txt?raw=true) | [正體字幕](zh-CN/201812/e231.tw.srt?raw=true) | [正體文字稿](zh-CN/201812/e231.tw.txt?raw=true) |
 |  歷史上的今天20181113 第217期 - 克林德牌坊 | [简体字幕](zh-CN/201811/e217.srt?raw=true) | [简体文字稿](zh-CN/201811/e217.txt?raw=true) | [正體字幕](zh-CN/201811/e217.tw.srt?raw=true) | [正體文字稿](zh-CN/201811/e217.tw.txt?raw=true) |
