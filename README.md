@@ -4,7 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
-|  《中央情報局的紅色鼴鼠》（七）东窗事发 | [简体字幕](zh-CN/201903/e306.srt?raw=true) | [简体文字稿](zh-CN/201903/e306.txt?raw=true) | [正體字幕](zh-CN/201903/e306.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e306.tw.txt?raw=true) |
+|  《中央情報局的紅色鼴鼠》（七）东窗事发 | [简体字幕](zh-CN/201903/s007.srt?raw=true) | [简体文字稿](zh-CN/201903/s007.txt?raw=true) | [正體字幕](zh-CN/201903/s007.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s007.tw.txt?raw=true) |
 |  歷史上的今天20190315第305期 - 消費者權益日 | [简体字幕](zh-CN/201903/e305.srt?raw=true) | [简体文字稿](zh-CN/201903/e305.txt?raw=true) | [正體字幕](zh-CN/201903/e305.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e305.tw.txt?raw=true) |
 |  歷史上的今天20190314第304期 - 愛因斯坦 | [简体字幕](zh-CN/201903/e304.srt?raw=true) | [简体文字稿](zh-CN/201903/e304.txt?raw=true) | [正體字幕](zh-CN/201903/e304.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e304.tw.txt?raw=true) |
 |  歷史上的今天20190313第303期 - 哈佛大学 | [简体字幕](zh-CN/201903/e303.srt?raw=true) | [简体文字稿](zh-CN/201903/e303.txt?raw=true) | [正體字幕](zh-CN/201903/e303.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e303.tw.txt?raw=true) |
