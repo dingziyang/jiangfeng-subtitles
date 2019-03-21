@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190321第309期 - 最後的日本武士 | [简体字幕](zh-CN/201903/e309.srt?raw=true) | [简体文字稿](zh-CN/201903/e309.txt?raw=true) | [正體字幕](zh-CN/201903/e309.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e309.tw.txt?raw=true) |
 |  歷史上的今天20190320第308期 - 孫志剛案 | [简体字幕](zh-CN/201903/e308.srt?raw=true) | [简体文字稿](zh-CN/201903/e308.txt?raw=true) | [正體字幕](zh-CN/201903/e308.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e308.tw.txt?raw=true) |
 |  歷史上的今天20190319第307期 - 《歐陽海之歌》 | [简体字幕](zh-CN/201903/e307.srt?raw=true) | [简体文字稿](zh-CN/201903/e307.txt?raw=true) | [正體字幕](zh-CN/201903/e307.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e307.tw.txt?raw=true) |
 |  歷史上的今天20190318第306期 - 巴黎公社 | [简体字幕](zh-CN/201903/e306.srt?raw=true) | [简体文字稿](zh-CN/201903/e306.txt?raw=true) | [正體字幕](zh-CN/201903/e306.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e306.tw.txt?raw=true) |
