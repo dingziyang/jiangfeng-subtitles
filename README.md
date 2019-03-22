@@ -4,6 +4,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  中央情報局的紅色鼴鼠》（八）卸磨殺驢 | [简体字幕](zh-CN/201903/s008.srt?raw=true) | [简体文字稿](zh-CN/201903/s008.txt?raw=true) | [正體字幕](zh-CN/201903/s008.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s008.tw.txt?raw=true) |
 |  歷史上的今天20190322第310期 - 《鞍鋼憲法》 | [简体字幕](zh-CN/201903/e310.srt?raw=true) | [简体文字稿](zh-CN/201903/e310.txt?raw=true) | [正體字幕](zh-CN/201903/e310.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e310.tw.txt?raw=true) |
 |  歷史上的今天20190321第309期 - 最後的日本武士 | [简体字幕](zh-CN/201903/e309.srt?raw=true) | [简体文字稿](zh-CN/201903/e309.txt?raw=true) | [正體字幕](zh-CN/201903/e309.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e309.tw.txt?raw=true) |
 |  歷史上的今天20190320第308期 - 孫志剛案 | [简体字幕](zh-CN/201903/e308.srt?raw=true) | [简体文字稿](zh-CN/201903/e308.txt?raw=true) | [正體字幕](zh-CN/201903/e308.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e308.tw.txt?raw=true) |
