@@ -1,11 +1,10 @@
 ### 江峰时刻《历史上的今天》节目字幕
 
 ---
-##### 友情链接：[免翻墙看禁闻，包含大纪元、新唐人等](https://github.com/gfw-breaker/banned-news)
----
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  《週末漫談》20190323第17期 | [简体字幕](zh-CN/201903/w017.srt?raw=true) | [简体文字稿](zh-CN/201903/w017.txt?raw=true) | [正體字幕](zh-CN/201903/w017.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w017.tw.txt?raw=true) |
 |  中央情報局的紅色鼴鼠》（八）卸磨殺驢 | [简体字幕](zh-CN/201903/s008.srt?raw=true) | [简体文字稿](zh-CN/201903/s008.txt?raw=true) | [正體字幕](zh-CN/201903/s008.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s008.tw.txt?raw=true) |
 |  歷史上的今天20190322第310期 - 《鞍鋼憲法》 | [简体字幕](zh-CN/201903/e310.srt?raw=true) | [简体文字稿](zh-CN/201903/e310.txt?raw=true) | [正體字幕](zh-CN/201903/e310.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e310.tw.txt?raw=true) |
 |  歷史上的今天20190321第309期 - 最後的日本武士 | [简体字幕](zh-CN/201903/e309.srt?raw=true) | [简体文字稿](zh-CN/201903/e309.txt?raw=true) | [正體字幕](zh-CN/201903/e309.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e309.tw.txt?raw=true) |
