@@ -1,6 +1,5 @@
 ### 江峰时刻《历史上的今天》节目字幕
 
----
 ##### 友情链接：[免翻墙看禁闻，包含大纪元、新唐人等](https://github.com/gfw-breaker/banned-news)
 ---
 
