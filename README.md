@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190326第312期 - 鎮反 | [简体字幕](zh-CN/201903/e312.srt?raw=true) | [简体文字稿](zh-CN/201903/e312.txt?raw=true) | [正體字幕](zh-CN/201903/e312.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e312.tw.txt?raw=true) |
 |  歷史上的今天20190325第311期 - 麥大志間諜案 | [简体字幕](zh-CN/201903/e311.srt?raw=true) | [简体文字稿](zh-CN/201903/e311.txt?raw=true) | [正體字幕](zh-CN/201903/e311.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e311.tw.txt?raw=true) |
 |  《週末漫談》20190323第17期 | [简体字幕](zh-CN/201903/w017.srt?raw=true) | [简体文字稿](zh-CN/201903/w017.txt?raw=true) | [正體字幕](zh-CN/201903/w017.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w017.tw.txt?raw=true) |
 |  中央情報局的紅色鼴鼠》（八）卸磨殺驢 | [简体字幕](zh-CN/201903/s008.srt?raw=true) | [简体文字稿](zh-CN/201903/s008.txt?raw=true) | [正體字幕](zh-CN/201903/s008.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s008.tw.txt?raw=true) |
