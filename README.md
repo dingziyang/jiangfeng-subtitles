@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190329第315期 - 俄羅斯反華 | [简体字幕](zh-CN/201903/e315.srt?raw=true) | [简体文字稿](zh-CN/201903/e315.txt?raw=true) | [正體字幕](zh-CN/201903/e315.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e315.tw.txt?raw=true) |
 |  歷史上的今天20190328第314期 - 艾森豪威爾 | [简体字幕](zh-CN/201903/e314.srt?raw=true) | [简体文字稿](zh-CN/201903/e314.txt?raw=true) | [正體字幕](zh-CN/201903/e314.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e314.tw.txt?raw=true) |
 |  歷史上的今天20190327第313期 - 赫鲁晓夫 | [简体字幕](zh-CN/201903/e313.srt?raw=true) | [简体文字稿](zh-CN/201903/e313.txt?raw=true) | [正體字幕](zh-CN/201903/e313.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e313.tw.txt?raw=true) |
 |  歷史上的今天20190326第312期 - 鎮反 | [简体字幕](zh-CN/201903/e312.srt?raw=true) | [简体文字稿](zh-CN/201903/e312.txt?raw=true) | [正體字幕](zh-CN/201903/e312.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e312.tw.txt?raw=true) |
