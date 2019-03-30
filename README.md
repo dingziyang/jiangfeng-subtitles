@@ -5,13 +5,14 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  《中央情報局的紅色鼴鼠》（九） 顯赫家族 | [简体字幕](zh-CN/201903/s009.srt?raw=true) | [简体文字稿](zh-CN/201903/s009.txt?raw=true) | [正體字幕](zh-CN/201903/s009.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s009.tw.txt?raw=true) |
 |  歷史上的今天20190329第315期 - 俄羅斯反華 | [简体字幕](zh-CN/201903/e315.srt?raw=true) | [简体文字稿](zh-CN/201903/e315.txt?raw=true) | [正體字幕](zh-CN/201903/e315.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e315.tw.txt?raw=true) |
 |  歷史上的今天20190328第314期 - 艾森豪威爾 | [简体字幕](zh-CN/201903/e314.srt?raw=true) | [简体文字稿](zh-CN/201903/e314.txt?raw=true) | [正體字幕](zh-CN/201903/e314.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e314.tw.txt?raw=true) |
 |  歷史上的今天20190327第313期 - 赫鲁晓夫 | [简体字幕](zh-CN/201903/e313.srt?raw=true) | [简体文字稿](zh-CN/201903/e313.txt?raw=true) | [正體字幕](zh-CN/201903/e313.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e313.tw.txt?raw=true) |
 |  歷史上的今天20190326第312期 - 鎮反 | [简体字幕](zh-CN/201903/e312.srt?raw=true) | [简体文字稿](zh-CN/201903/e312.txt?raw=true) | [正體字幕](zh-CN/201903/e312.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e312.tw.txt?raw=true) |
 |  歷史上的今天20190325第311期 - 麥大志間諜案 | [简体字幕](zh-CN/201903/e311.srt?raw=true) | [简体文字稿](zh-CN/201903/e311.txt?raw=true) | [正體字幕](zh-CN/201903/e311.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e311.tw.txt?raw=true) |
 |  《週末漫談》20190323第17期 | [简体字幕](zh-CN/201903/w017.srt?raw=true) | [简体文字稿](zh-CN/201903/w017.txt?raw=true) | [正體字幕](zh-CN/201903/w017.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w017.tw.txt?raw=true) |
-|  中央情報局的紅色鼴鼠》（八）卸磨殺驢 | [简体字幕](zh-CN/201903/s008.srt?raw=true) | [简体文字稿](zh-CN/201903/s008.txt?raw=true) | [正體字幕](zh-CN/201903/s008.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s008.tw.txt?raw=true) |
+|  《中央情報局的紅色鼴鼠》（八）卸磨殺驢 | [简体字幕](zh-CN/201903/s008.srt?raw=true) | [简体文字稿](zh-CN/201903/s008.txt?raw=true) | [正體字幕](zh-CN/201903/s008.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s008.tw.txt?raw=true) |
 |  歷史上的今天20190322第310期 - 《鞍鋼憲法》 | [简体字幕](zh-CN/201903/e310.srt?raw=true) | [简体文字稿](zh-CN/201903/e310.txt?raw=true) | [正體字幕](zh-CN/201903/e310.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e310.tw.txt?raw=true) |
 |  歷史上的今天20190321第309期 - 最後的日本武士 | [简体字幕](zh-CN/201903/e309.srt?raw=true) | [简体文字稿](zh-CN/201903/e309.txt?raw=true) | [正體字幕](zh-CN/201903/e309.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e309.tw.txt?raw=true) |
 |  歷史上的今天20190320第308期 - 孫志剛案 | [简体字幕](zh-CN/201903/e308.srt?raw=true) | [简体文字稿](zh-CN/201903/e308.txt?raw=true) | [正體字幕](zh-CN/201903/e308.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e308.tw.txt?raw=true) |
