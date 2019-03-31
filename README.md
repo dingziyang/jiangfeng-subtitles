@@ -5,7 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
-|第50条字幕中的上海话不确定|---|---|---|---|
+|  《週末漫談》20190330第18期 | [简体字幕](zh-CN/201903/w018.srt?raw=true) | [简体文字稿](zh-CN/201903/w018.txt?raw=true) | [正體字幕](zh-CN/201903/w018.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/w018.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（九） 顯赫家族 | [简体字幕](zh-CN/201903/s009.srt?raw=true) | [简体文字稿](zh-CN/201903/s009.txt?raw=true) | [正體字幕](zh-CN/201903/s009.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/s009.tw.txt?raw=true) |
 |  歷史上的今天20190329第315期 - 俄羅斯反華 | [简体字幕](zh-CN/201903/e315.srt?raw=true) | [简体文字稿](zh-CN/201903/e315.txt?raw=true) | [正體字幕](zh-CN/201903/e315.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e315.tw.txt?raw=true) |
 |  歷史上的今天20190328第314期 - 艾森豪威爾 | [简体字幕](zh-CN/201903/e314.srt?raw=true) | [简体文字稿](zh-CN/201903/e314.txt?raw=true) | [正體字幕](zh-CN/201903/e314.tw.srt?raw=true) | [正體文字稿](zh-CN/201903/e314.tw.txt?raw=true) |
