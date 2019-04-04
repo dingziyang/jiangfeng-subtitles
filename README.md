@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190405第320期 - 麥肯阿瑟 | [简体字幕](zh-CN/201904/e320.srt?raw=true) | [简体文字稿](zh-CN/201904/e320.txt?raw=true) | [正體字幕](zh-CN/201904/e320.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e320.tw.txt?raw=true) |
 |  歷史上的今天20190404第319期 - 現代奧運會 | [简体字幕](zh-CN/201904/e319.srt?raw=true) | [简体文字稿](zh-CN/201904/e319.txt?raw=true) | [正體字幕](zh-CN/201904/e319.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e319.tw.txt?raw=true) |
 |  歷史上的今天20190403第318期 - 馬歇爾計劃 | [简体字幕](zh-CN/201904/e318.srt?raw=true) | [简体文字稿](zh-CN/201904/e318.txt?raw=true) | [正體字幕](zh-CN/201904/e318.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e318.tw.txt?raw=true) |
 |  歷史上的今天20190402第317期 - 世界自閉症關注日 | [简体字幕](zh-CN/201904/e317.srt?raw=true) | [简体文字稿](zh-CN/201904/e317.txt?raw=true) | [正體字幕](zh-CN/201904/e317.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e317.tw.txt?raw=true) |
