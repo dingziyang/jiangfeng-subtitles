@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天 20190409第322期 - 波音 | [简体字幕](zh-CN/201904/e322.srt?raw=true) | [简体文字稿](zh-CN/201904/e322.txt?raw=true) | [正體字幕](zh-CN/201904/e322.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e322.tw.txt?raw=true) |
 |  歷史上的今天20190408第321期 - 李敦白 | [简体字幕](zh-CN/201904/e321.srt?raw=true) | [简体文字稿](zh-CN/201904/e321.txt?raw=true) | [正體字幕](zh-CN/201904/e321.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e321.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（十）紅色基因 | [简体字幕](zh-CN/201904/s010.srt?raw=true) | [简体文字稿](zh-CN/201904/s010.txt?raw=true) | [正體字幕](zh-CN/201904/s010.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/s010.tw.txt?raw=true) |
 |  歷史上的今天20190405第320期 - 麥肯阿瑟 | [简体字幕](zh-CN/201904/e320.srt?raw=true) | [简体文字稿](zh-CN/201904/e320.txt?raw=true) | [正體字幕](zh-CN/201904/e320.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e320.tw.txt?raw=true) |
