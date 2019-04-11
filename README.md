@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
 |---|---|---|---|---|
+|  歷史上的今天20190412第325期 - 容閎 | [简体字幕](zh-CN/201904/e325.srt?raw=true) | [简体文字稿](zh-CN/201904/e325.txt?raw=true) | [正體字幕](zh-CN/201904/e325.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e325.tw.txt?raw=true) |
 |  歷史上的今天20190411第324期 - 愛麗絲島 | [简体字幕](zh-CN/201904/e324.srt?raw=true) | [简体文字稿](zh-CN/201904/e324.txt?raw=true) | [正體字幕](zh-CN/201904/e324.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e324.tw.txt?raw=true) |
 |  歷史上的今天20190410第323期 - 朱令中毒案 | [简体字幕](zh-CN/201904/e323.srt?raw=true) | [简体文字稿](zh-CN/201904/e323.txt?raw=true) | [正體字幕](zh-CN/201904/e323.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e323.tw.txt?raw=true) |
 |  歷史上的今天20190409第322期 - 波音 | [简体字幕](zh-CN/201904/e322.srt?raw=true) | [简体文字稿](zh-CN/201904/e322.txt?raw=true) | [正體字幕](zh-CN/201904/e322.tw.srt?raw=true) | [正體文字稿](zh-CN/201904/e322.tw.txt?raw=true) |
