@@ -1,18 +1,18 @@
 #!/bin/bash
 # author: gfw-breaker
 
-langs="zh-CN"
+langs="zh"
 
 index=README.md
 
 ## README page
 cat > $index << EOF
-### 江峰时刻《历史上的今天》节目字幕
+### 《江峰时刻》节目字幕/文字稿
 
 ---
 ##### 友情链接：[免翻墙看禁闻，包含大纪元、新唐人等](https://github.com/gfw-breaker/banned-news)
 
-| 视频节目名称 | 下载 | 下载 | 下载 | 下载 |
+| 视频节目名称 | 简体字幕 | 简体文字稿 | 正體字幕下载 | 正體文字稿下载 |
 |---|---|---|---|---|
 EOF
 
@@ -32,7 +32,7 @@ for lang in $langs; do
 			cat $srt | grep -v ^$ | egrep -v ' --> [0-9]+:' | egrep -v ^[0-9]+$  > $txt
 			opencc -c s2tw.json -i $srt -o $srtTw
 			opencc -c s2tw.json -i $txt -o $txtTw
-			echo "| $desc | [简体字幕]($srt?raw=true) | [简体文字稿]($txt?raw=true) | [正體字幕]($srtTw?raw=true) | [正體文字稿]($txtTw?raw=true) |" >> $index
+			echo "| $desc | [下载]($srt?raw=true) | [下载]($txt?raw=true) | [下載]($srtTw?raw=true) | [下載]($txtTw?raw=true) |" >> $index
 		done < $readme
 	done
 done
