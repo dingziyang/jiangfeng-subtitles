@@ -5,11 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
-<<<<<<< HEAD
 |  歷史上的今天20190415第326期 - 中美合作所 | [下载](https://y2mate.com/zh-cn/youtube/tfsMbFsmr8Y) | [下载](zh/201904/e326.srt?raw=true) | [下载](zh/201904/e326.txt?raw=true) | [下載](zh/201904/e326.tw.srt?raw=true) | [下載](zh/201904/e326.tw.txt?raw=true) |
-=======
-| 今天有事，这一期节目的字幕推迟一天交付|---|---|---|---|---|
->>>>>>> 4f38a75724af8431c51acdae68f6dd2daee3761e
 |  《中央情報局的紅色鼴鼠》（十一）風雲際會 | [下载](https://y2mate.com/zh-cn/youtube/WudFf-YLUWs) | [下载](zh/201904/s011.srt?raw=true) | [下载](zh/201904/s011.txt?raw=true) | [下載](zh/201904/s011.tw.srt?raw=true) | [下載](zh/201904/s011.tw.txt?raw=true) |
 |  歷史上的今天20190412第325期 - 容閎 | [下载](https://y2mate.com/zh-cn/youtube/Aok-4ajN_Vo) | [下载](zh/201904/e325.srt?raw=true) | [下载](zh/201904/e325.txt?raw=true) | [下載](zh/201904/e325.tw.srt?raw=true) | [下載](zh/201904/e325.tw.txt?raw=true) |
 |  歷史上的今天20190411第324期 - 愛麗絲島 | [下载](https://y2mate.com/zh-cn/youtube/) | [下载](zh/201904/e324.srt?raw=true) | [下载](zh/201904/e324.txt?raw=true) | [下載](zh/201904/e324.tw.srt?raw=true) | [下載](zh/201904/e324.tw.txt?raw=true) |
