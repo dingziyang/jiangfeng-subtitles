@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190416第327期 - 列寧 | [下载](https://y2mate.com/zh-cn/youtube/Uq92K6HavhI) | [下载](zh/201904/e327.srt?raw=true) | [下载](zh/201904/e327.txt?raw=true) | [下載](zh/201904/e327.tw.srt?raw=true) | [下載](zh/201904/e327.tw.txt?raw=true) |
 |  歷史上的今天20190415第326期 - 中美合作所 | [下载](https://y2mate.com/zh-cn/youtube/tfsMbFsmr8Y) | [下载](zh/201904/e326.srt?raw=true) | [下载](zh/201904/e326.txt?raw=true) | [下載](zh/201904/e326.tw.srt?raw=true) | [下載](zh/201904/e326.tw.txt?raw=true) |
 |  《週末漫談》第19期20190414 | [下载](https://y2mate.com/zh-cn/youtube/oSA0qPZ4VaU) | [下载](zh/201904/w019.srt?raw=true) | [下载](zh/201904/w019.txt?raw=true) | [下載](zh/201904/w019.tw.srt?raw=true) | [下載](zh/201904/w019.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（十一）風雲際會 | [下载](https://y2mate.com/zh-cn/youtube/WudFf-YLUWs) | [下载](zh/201904/s011.srt?raw=true) | [下载](zh/201904/s011.txt?raw=true) | [下載](zh/201904/s011.tw.srt?raw=true) | [下載](zh/201904/s011.tw.txt?raw=true) |
