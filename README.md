@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190418第329期 - 紅色高棉 | [下载](https://y2mate.com/zh-cn/youtube/QsDeMT3TaUk) | [下载](zh/201904/e329.srt?raw=true) | [下载](zh/201904/e329.txt?raw=true) | [下載](zh/201904/e329.tw.srt?raw=true) | [下載](zh/201904/e329.tw.txt?raw=true) |
 |  歷史上的今天20190417第328期 - 富蘭克林 | [下载](https://y2mate.com/zh-cn/youtube/J5OREPrWpsU) | [下载](zh/201904/e328.srt?raw=true) | [下载](zh/201904/e328.txt?raw=true) | [下載](zh/201904/e328.tw.srt?raw=true) | [下載](zh/201904/e328.tw.txt?raw=true) |
 |  歷史上的今天20190416第327期 - 列寧 | [下载](https://y2mate.com/zh-cn/youtube/Uq92K6HavhI) | [下载](zh/201904/e327.srt?raw=true) | [下载](zh/201904/e327.txt?raw=true) | [下載](zh/201904/e327.tw.srt?raw=true) | [下載](zh/201904/e327.tw.txt?raw=true) |
 |  歷史上的今天20190415第326期 - 中美合作所 | [下载](https://y2mate.com/zh-cn/youtube/tfsMbFsmr8Y) | [下载](zh/201904/e326.srt?raw=true) | [下载](zh/201904/e326.txt?raw=true) | [下載](zh/201904/e326.tw.srt?raw=true) | [下載](zh/201904/e326.tw.txt?raw=true) |
