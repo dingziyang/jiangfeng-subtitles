@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190422第331期 - 林巧稚 | [下载](https://y2mate.com/zh-cn/youtube/wjzdvO7XN-g) | [下载](zh/201904/e331.srt?raw=true) | [下载](zh/201904/e331.txt?raw=true) | [下載](zh/201904/e331.tw.srt?raw=true) | [下載](zh/201904/e331.tw.txt?raw=true) |
 |  週末漫談》第20期20190421 | [下载](https://y2mate.com/zh-cn/youtube/L0JXvruwtMQ) | [下载](zh/201904/w020.srt?raw=true) | [下载](zh/201904/w020.txt?raw=true) | [下載](zh/201904/w020.tw.srt?raw=true) | [下載](zh/201904/w020.tw.txt?raw=true) |
 |  《中央情報局的紅色鼴鼠》（十二）他還活著 | [下载](https://y2mate.com/zh-cn/youtube/SpvYRxf9wAs) | [下载](zh/201904/s012.srt?raw=true) | [下载](zh/201904/s012.txt?raw=true) | [下載](zh/201904/s012.tw.srt?raw=true) | [下載](zh/201904/s012.tw.txt?raw=true) |
 |  历史上的今天20190419第330期 - 全民打麻雀 | [下载](https://y2mate.com/zh-cn/youtube/WgtwyAq4krc) | [下载](zh/201904/e330.srt?raw=true) | [下载](zh/201904/e330.txt?raw=true) | [下載](zh/201904/e330.tw.srt?raw=true) | [下載](zh/201904/e330.tw.txt?raw=true) |
