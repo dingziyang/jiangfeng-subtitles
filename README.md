@@ -5,7 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
-|（粤语部分听不懂哦 ）|---|---|---|---|---|
+|  歷史上的今天20190425第334期 - 425和平上访 | [下载](https://y2mate.com/zh-cn/youtube/Ud_21t6uR6M) | [下载](zh/201904/e334.srt?raw=true) | [下载](zh/201904/e334.txt?raw=true) | [下載](zh/201904/e334.tw.srt?raw=true) | [下載](zh/201904/e334.tw.txt?raw=true) |
 |  歷史上的今天20190424第333期 - SARS | [下载](https://y2mate.com/zh-cn/youtube/y8_NIpmDjyM) | [下载](zh/201904/e333.srt?raw=true) | [下载](zh/201904/e333.txt?raw=true) | [下載](zh/201904/e333.tw.srt?raw=true) | [下載](zh/201904/e333.tw.txt?raw=true) |
 |  歷史上的今天20190423第332期 - 武訓 | [下载](https://y2mate.com/zh-cn/youtube/9j8lPeaBPsA) | [下载](zh/201904/e332.srt?raw=true) | [下载](zh/201904/e332.txt?raw=true) | [下載](zh/201904/e332.tw.srt?raw=true) | [下載](zh/201904/e332.tw.txt?raw=true) |
 |  歷史上的今天20190422第331期 - 林巧稚 | [下载](https://y2mate.com/zh-cn/youtube/wjzdvO7XN-g) | [下载](zh/201904/e331.srt?raw=true) | [下载](zh/201904/e331.txt?raw=true) | [下載](zh/201904/e331.tw.srt?raw=true) | [下載](zh/201904/e331.tw.txt?raw=true) |
