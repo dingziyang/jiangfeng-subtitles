@@ -33,7 +33,7 @@ for lang in $langs; do
 			cat $srt | grep -v ^$ | egrep -v ' --> [0-9]+:' | egrep -v ^[0-9]+$  > $txt
 			opencc -c s2tw.json -i $srt -o $srtTw
 			opencc -c s2tw.json -i $txt -o $txtTw
-			echo "| $desc | [下载](https://y2mate.com/zh-cn/youtube/$id) | [下载]($srt?raw=true) | [下载]($txt?raw=true) | [下載]($srtTw?raw=true) | [下載]($txtTw?raw=true) |" >> $index
+			echo "| $desc | [下载](https://y2mate.com/zh-cn/search/$id) | [下载]($srt?raw=true) | [下载]($txt?raw=true) | [下載]($srtTw?raw=true) | [下載]($txtTw?raw=true) |" >> $index
 		done < $readme
 	done
 done
