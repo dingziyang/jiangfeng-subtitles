@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
+|  歷史上的今天20190502第339期 - 德国居民参观纳粹集中营 | [下载](https://y2mate.com/zh-cn/search/63osMs38xBc) | [下载](zh/201905/e338.srt?raw=true) | [下载](zh/201905/e338.txt?raw=true) | [下載](zh/201905/e338.tw.srt?raw=true) | [下載](zh/201905/e338.tw.txt?raw=true) |
 |  歷史上的今天20190501第338期 - 擊斃本拉登 | [下载](https://y2mate.com/zh-cn/search/ZKyw38SmoI0) | [下载](zh/201905/e337.srt?raw=true) | [下载](zh/201905/e337.txt?raw=true) | [下載](zh/201905/e337.tw.srt?raw=true) | [下載](zh/201905/e337.tw.txt?raw=true) |
 |  歷史上的今天20190430第337期 - 路易斯安那 | [下载](https://y2mate.com/zh-cn/search/mplcqS4xOF0) | [下载](zh/201904/e337.srt?raw=true) | [下载](zh/201904/e337.txt?raw=true) | [下載](zh/201904/e337.tw.srt?raw=true) | [下載](zh/201904/e337.tw.txt?raw=true) |
 |  歷史上的今天20190429第336期 - 盧作孚 | [下载](https://y2mate.com/zh-cn/search/r32lucPX7RQ) | [下载](zh/201904/e336.srt?raw=true) | [下载](zh/201904/e336.txt?raw=true) | [下載](zh/201904/e336.tw.srt?raw=true) | [下載](zh/201904/e336.tw.txt?raw=true) |
