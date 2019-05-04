@@ -10,7 +10,7 @@ cat > $index << EOF
 ### 《江峰时刻》节目字幕/文字稿
 
 ---
-##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;&nbsp;&nbsp;&nbsp;[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
+##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;&nbsp; | &nbsp;&nbsp;[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
