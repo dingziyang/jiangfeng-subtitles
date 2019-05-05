@@ -7,13 +7,13 @@ index=README.md
 
 ## README page
 cat > $index << EOF
-### 《江峰时刻》节目字幕/文字稿
+### 《江峰时刻》节目字幕
 
 ---
 ##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
-| 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
-|---|---|---|---|---|---|
+| 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
+|---|---|---|---|
 EOF
 
 ## generate
@@ -33,7 +33,7 @@ for lang in $langs; do
 			cat $srt | grep -v ^$ | egrep -v ' --> [0-9]+:' | egrep -v ^[0-9]+$  > $txt
 			opencc -c s2tw.json -i $srt -o $srtTw
 			opencc -c s2tw.json -i $txt -o $txtTw
-			echo "| $desc | [下载](https://y2mate.com/zh-cn/search/$id) | [下载]($srt?raw=true) | [下载]($txt?raw=true) | [下載]($srtTw?raw=true) | [下載]($txtTw?raw=true) |" >> $index
+			echo "| $desc | [下载](https://y2mate.com/zh-cn/search/$id) | [下载]($srt?raw=true) | [下載]($srtTw?raw=true) |" >> $index
 		done < $readme
 	done
 done
