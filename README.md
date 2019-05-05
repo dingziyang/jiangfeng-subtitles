@@ -1,10 +1,11 @@
 ### 《江峰时刻》节目字幕
 
 ---
-##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
+##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;|&nbsp; [《江峰时刻》会员网站](https://www.jfengtime.com/)
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190506第341期 - 《排華法案》 | [下载](https://y2mate.com/zh-cn/search/QS-XEnZWQLo) | [下载](zh/201905/e341.srt?raw=true) | [下載](zh/201905/e341.tw.srt?raw=true) |
 |  《週末漫談》20190505第22期 | [下载](https://y2mate.com/zh-cn/search/j8p70bv82PI) | [下载](zh/201905/w022.srt?raw=true) | [下載](zh/201905/w022.tw.srt?raw=true) |
 |  歷史上的今天20190503第340期 - 世界新闻自由日 | [下载](https://y2mate.com/zh-cn/search/Ee5pfk6KDB0) | [下载](zh/201905/e340.srt?raw=true) | [下載](zh/201905/e340.tw.srt?raw=true) |
 |  歷史上的今天20190502第339期 - 德国居民参观纳粹集中营 | [下载](https://y2mate.com/zh-cn/search/63osMs38xBc) | [下载](zh/201905/e339.srt?raw=true) | [下載](zh/201905/e339.tw.srt?raw=true) |
