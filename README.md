@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕  | 简体文字稿 | 正體字幕 | 正體文字稿 |
 |---|---|---|---|---|---|
+|  《週末漫談》20190505第22期 | [下载](https://y2mate.com/zh-cn/search/j8p70bv82PI) | [下载](zh/201905/w022.srt?raw=true) | [下载](zh/201905/w022.txt?raw=true) | [下載](zh/201905/w022.tw.srt?raw=true) | [下載](zh/201905/w022.tw.txt?raw=true) |
 |  歷史上的今天20190503第340期 - 世界新闻自由日 | [下载](https://y2mate.com/zh-cn/search/Ee5pfk6KDB0) | [下载](zh/201905/e340.srt?raw=true) | [下载](zh/201905/e340.txt?raw=true) | [下載](zh/201905/e340.tw.srt?raw=true) | [下載](zh/201905/e340.tw.txt?raw=true) |
 |  歷史上的今天20190502第339期 - 德国居民参观纳粹集中营 | [下载](https://y2mate.com/zh-cn/search/63osMs38xBc) | [下载](zh/201905/e339.srt?raw=true) | [下载](zh/201905/e339.txt?raw=true) | [下載](zh/201905/e339.tw.srt?raw=true) | [下載](zh/201905/e339.tw.txt?raw=true) |
 |  歷史上的今天20190501第338期 - 擊斃本拉登 | [下载](https://y2mate.com/zh-cn/search/ZKyw38SmoI0) | [下载](zh/201905/e338.srt?raw=true) | [下载](zh/201905/e338.txt?raw=true) | [下載](zh/201905/e338.tw.srt?raw=true) | [下載](zh/201905/e338.tw.txt?raw=true) |
