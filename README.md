@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190508第343期 - 美國轟炸中國駐南斯拉夫大使館 | [下载](https://y2mate.com/zh-cn/search/c87n8_x3PFA) | [下载](zh/201905/e343.srt?raw=true) | [下載](zh/201905/e343.tw.srt?raw=true) |
 |  歷史上的今天20190507第342期 - 報道水門事件 | [下载](https://y2mate.com/zh-cn/search/Ie99CNnh93Y) | [下载](zh/201905/e342.srt?raw=true) | [下載](zh/201905/e342.tw.srt?raw=true) |
 |  歷史上的今天20190506第341期 - 《排華法案》 | [下载](https://y2mate.com/zh-cn/search/QS-XEnZWQLo) | [下载](zh/201905/e341.srt?raw=true) | [下載](zh/201905/e341.tw.srt?raw=true) |
 |  《週末漫談》20190505第22期 | [下载](https://y2mate.com/zh-cn/search/j8p70bv82PI) | [下载](zh/201905/w022.srt?raw=true) | [下載](zh/201905/w022.tw.srt?raw=true) |
