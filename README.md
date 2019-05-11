@@ -5,7 +5,8 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
-|  《週末漫談》20190511第23期） | [下载](https://y2mate.com/zh-cn/search/j7x2i8RizZg) | [下载](zh/201905/w023.srt?raw=true) | [下載](zh/201905/w023.tw.srt?raw=true) |
+|  《週末漫談》20190512第24期 | [下载](https://y2mate.com/zh-cn/search/UUTZM1cxg2w) | [下载](zh/201905/w024.srt?raw=true) | [下載](zh/201905/w024.tw.srt?raw=true) |
+|  《週末漫談》20190511第23期 | [下载](https://y2mate.com/zh-cn/search/j7x2i8RizZg) | [下载](zh/201905/w023.srt?raw=true) | [下載](zh/201905/w023.tw.srt?raw=true) |
 |  歷史上的今天20190510第345期 - 曼德拉 | [下载](https://y2mate.com/zh-cn/search/swlyTucEXZw) | [下载](zh/201905/e345.srt?raw=true) | [下載](zh/201905/e345.tw.srt?raw=true) |
 |  歷史上的今天20190509第344期 - 永不凋零的白玫瑰 | [下载](https://y2mate.com/zh-cn/search/xlteVtrqb4Q) | [下载](zh/201905/e344.srt?raw=true) | [下載](zh/201905/e344.tw.srt?raw=true) |
 |  歷史上的今天20190508第343期 - 美國轟炸中國駐南斯拉夫大使館 | [下载](https://y2mate.com/zh-cn/search/c87n8_x3PFA) | [下载](zh/201905/e343.srt?raw=true) | [下載](zh/201905/e343.tw.srt?raw=true) |
