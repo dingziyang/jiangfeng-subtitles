@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  《週末漫談》20190518第25期 | [下载](https://y2mate.com/zh-cn/search/qh-e0HAcMjI) | [下载](zh/201905/w025.srt?raw=true) | [下載](zh/201905/w025.tw.srt?raw=true) |
 |  歷史上的今天20190517第349期 - 梧桐樹協議 | [下载](https://y2mate.com/zh-cn/search/cyEdU-9CteU) | [下载](zh/201905/e349.srt?raw=true) | [下載](zh/201905/e349.tw.srt?raw=true) |
 |  歷史上的今天20190516第348期 - 抗日英雄張靈甫 | [下载](https://y2mate.com/zh-cn/search/pwNK5k90nHE) | [下载](zh/201905/e348.srt?raw=true) | [下載](zh/201905/e348.tw.srt?raw=true) |
 |  歷史上的今天20190515第347期 - 埃菲尔铁塔 | [下载](https://y2mate.com/zh-cn/search/eEB949j3-CU) | [下载](zh/201905/e347.srt?raw=true) | [下載](zh/201905/e347.tw.srt?raw=true) |
