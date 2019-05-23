@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190523第353期 - 希姆萊 | [下载](https://y2mate.com/zh-cn/search/TpXifMPoVuY) | [下载](zh/201905/e353.srt?raw=true) | [下載](zh/201905/e353.tw.srt?raw=true) |
 |  歷史上的今天20190522第352期 - 柯南·道爾 | [下载](https://y2mate.com/zh-cn/search/JF3qJ9SkvUk) | [下载](zh/201905/e352.srt?raw=true) | [下載](zh/201905/e352.tw.srt?raw=true) |
 |  歷史上的今天20190521第351期 - 薩哈羅夫 | [下载](https://y2mate.com/zh-cn/search/5dH6Hs5z4KI) | [下载](zh/201905/e351.srt?raw=true) | [下載](zh/201905/e351.tw.srt?raw=true) |
 |  歷史上的今天20190520第350期 - 520聲明 | [下载](https://y2mate.com/zh-cn/search/pdeXZ3aAKAE) | [下载](zh/201905/e350.srt?raw=true) | [下載](zh/201905/e350.tw.srt?raw=true) |
