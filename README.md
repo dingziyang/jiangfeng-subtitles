@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  《週末漫談》20190525第26期 | [下载](https://y2mate.com/zh-cn/search/whvsvlzHMsY) | [下载](zh/201905/w026.srt?raw=true) | [下載](zh/201905/w026.tw.srt?raw=true) |
 |  歷史上的今天20190524第354期 - 門格勒 | [下载](https://y2mate.com/zh-cn/search/iTCbnDhRtfQ) | [下载](zh/201905/e354.srt?raw=true) | [下載](zh/201905/e354.tw.srt?raw=true) |
 |  歷史上的今天20190523第353期 - 希姆萊 | [下载](https://y2mate.com/zh-cn/search/TpXifMPoVuY) | [下载](zh/201905/e353.srt?raw=true) | [下載](zh/201905/e353.tw.srt?raw=true) |
 |  歷史上的今天20190522第352期 - 柯南·道爾 | [下载](https://y2mate.com/zh-cn/search/JF3qJ9SkvUk) | [下载](zh/201905/e352.srt?raw=true) | [下載](zh/201905/e352.tw.srt?raw=true) |
