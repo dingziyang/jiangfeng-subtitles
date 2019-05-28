@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190529第357期 - 珠穆朗玛峰登顶 | [下载](https://y2mate.com/zh-cn/search/IfgjKncmPO4) | [下载](zh/201905/e357.srt?raw=true) | [下載](zh/201905/e357.tw.srt?raw=true) |
 |  歷史上的今天20190528第356期 - 約翰·謬爾 | [下载](https://y2mate.com/zh-cn/search/yAVCSaU4kSk) | [下载](zh/201905/e356.srt?raw=true) | [下載](zh/201905/e356.tw.srt?raw=true) |
 |  歷史上的今天20190527第355期 - 光州事件 | [下载](https://y2mate.com/zh-cn/search/_KJx_a6lM-w) | [下载](zh/201905/e355.srt?raw=true) | [下載](zh/201905/e355.tw.srt?raw=true) |
 |  《週末漫談》20190525第26期 | [下载](https://y2mate.com/zh-cn/search/whvsvlzHMsY) | [下载](zh/201905/w026.srt?raw=true) | [下載](zh/201905/w026.tw.srt?raw=true) |
