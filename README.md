@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190531第359期 - 艾希曼 | [下载](https://y2mate.com/zh-cn/search/NtbEjwNbdaQ) | [下载](zh/201905/e359.srt?raw=true) | [下載](zh/201905/e359.tw.srt?raw=true) |
 |  歷史上的今天20190530第358期 - 《白毛女》 | [下载](https://y2mate.com/zh-cn/search/hKGvsCKSm44) | [下载](zh/201905/e358.srt?raw=true) | [下載](zh/201905/e358.tw.srt?raw=true) |
 |  歷史上的今天20190529第357期 - 珠穆朗玛峰登顶 | [下载](https://y2mate.com/zh-cn/search/IfgjKncmPO4) | [下载](zh/201905/e357.srt?raw=true) | [下載](zh/201905/e357.tw.srt?raw=true) |
 |  歷史上的今天20190528第356期 - 約翰·謬爾 | [下载](https://y2mate.com/zh-cn/search/yAVCSaU4kSk) | [下载](zh/201905/e356.srt?raw=true) | [下載](zh/201905/e356.tw.srt?raw=true) |
