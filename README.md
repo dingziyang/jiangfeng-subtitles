@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  《週末漫談》20190602第27期 | [下载](https://y2mate.com/zh-cn/search/2Jxh0kfhFag) | [下载](zh/201906/w027.srt?raw=true) | [下載](zh/201906/w027.tw.srt?raw=true) |
 |  歷史上的今天64節目重播 20190601第360期 - 八九六四30週年特別回顧 | [下载](https://y2mate.com/zh-cn/search/Eb8et053uJo) | [下载](zh/201906/e360.srt?raw=true) | [下載](zh/201906/e360.tw.srt?raw=true) |
 |  歷史上的今天20190531第359期 - 艾希曼 | [下载](https://y2mate.com/zh-cn/search/NtbEjwNbdaQ) | [下载](zh/201905/e359.srt?raw=true) | [下載](zh/201905/e359.tw.srt?raw=true) |
 |  歷史上的今天20190530第358期 - 《白毛女》 | [下载](https://y2mate.com/zh-cn/search/hKGvsCKSm44) | [下载](zh/201905/e358.srt?raw=true) | [下載](zh/201905/e358.tw.srt?raw=true) |
