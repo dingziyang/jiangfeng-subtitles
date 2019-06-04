@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190604第362期 - 黄雀行动 | [下载](https://y2mate.com/zh-cn/search/FwCNuHLnXlU) | [下载](zh/201906/e362.srt?raw=true) | [下載](zh/201906/e362.tw.srt?raw=true) |
 |  歷史上的今天特刊 20190603第2期 - 解讀白玫瑰的第二份傳單 | [下载](https://y2mate.com/zh-cn/search/8koy9LLAioo) | [下载](zh/201906/hs002.srt?raw=true) | [下載](zh/201906/hs002.tw.srt?raw=true) |
 |  《週末漫談》20190602第27期 | [下载](https://y2mate.com/zh-cn/search/2Jxh0kfhFag) | [下载](zh/201906/w027.srt?raw=true) | [下載](zh/201906/w027.tw.srt?raw=true) |
 |  歷史上的今天64節目重播 20190601第360期 - 八九六四30週年特別回顧 | [下载](https://y2mate.com/zh-cn/search/Eb8et053uJo) | [下载](zh/201906/e360.srt?raw=true) | [下載](zh/201906/e360.tw.srt?raw=true) |
