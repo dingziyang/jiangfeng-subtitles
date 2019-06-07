@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  川普推推推20190606第2期 | [下载](https://y2mate.com/zh-cn/search/MRL0aOPV6rQ) | [下载](zh/201906/t002.srt?raw=true) | [下載](zh/201906/t002.tw.srt?raw=true) |
 |  川普推推推20190605第1期 | [下载](https://y2mate.com/zh-cn/search/gX3oXS98y2I) | [下载](zh/201906/t001.srt?raw=true) | [下載](zh/201906/t001.tw.srt?raw=true) |
 |  歷史上的今天20190605第362期 - 里根 | [下载](https://y2mate.com/zh-cn/search/EeLBN3MiZyQ) | [下载](zh/201906/e362.srt?raw=true) | [下載](zh/201906/e362.tw.srt?raw=true) |
 |  歷史上的今天20190604第361期 - 黄雀行动 | [下载](https://y2mate.com/zh-cn/search/FwCNuHLnXlU) | [下载](zh/201906/e361.srt?raw=true) | [下載](zh/201906/e361.tw.srt?raw=true) |
