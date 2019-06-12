@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天 20190613第363期 - 米蘭達警告 | [下载](https://y2mate.com/zh-cn/search/xvVBF9uDNnc) | [下载](zh/201906/e363.srt?raw=true) | [下載](zh/201906/e363.tw.srt?raw=true) |
 |  江峰漫談20190612第3期 | [下载](https://y2mate.com/zh-cn/search/bGviFgWJKxk) | [下载](zh/201906/c003.srt?raw=true) | [下載](zh/201906/c003.tw.srt?raw=true) |
 |  江峰漫談20190611第2期 | [下载](https://y2mate.com/zh-cn/search/t-5nIlTShXg) | [下载](zh/201906/c002.srt?raw=true) | [下載](zh/201906/c002.tw.srt?raw=true) |
 |  江峰漫談20190610第1期 | [下载](https://y2mate.com/zh-cn/search/T5F83hzS_6s) | [下载](zh/201906/c001.srt?raw=true) | [下載](zh/201906/c001.tw.srt?raw=true) |
