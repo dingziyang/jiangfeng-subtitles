@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天 20190619第365期 - 大逃港 | [下载](https://y2mate.com/zh-cn/search/OXWcoiNGxSk) | [下载](zh/201906/e365.srt?raw=true) | [下載](zh/201906/e365.tw.srt?raw=true) |
 |  《隨拍隨想》20190615 | [下载](https://y2mate.com/zh-cn/search/6K8nG-vIjss) | [下载](zh/201906/l001.srt?raw=true) | [下載](zh/201906/l001.tw.srt?raw=true) |
 |  歷史上的今天20190614第364期 - 泛欧野餐 | [下载](https://y2mate.com/zh-cn/search/HiC0cRQ9UIo) | [下载](zh/201906/e364.srt?raw=true) | [下載](zh/201906/e364.tw.srt?raw=true) |
 |  川普推推推20190613第4期 | [下载](https://y2mate.com/zh-cn/search/VwEFbMGthec) | [下载](zh/201906/t004.srt?raw=true) | [下載](zh/201906/t004.tw.srt?raw=true) |
