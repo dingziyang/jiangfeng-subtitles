@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  歷史上的今天20190625第366期 - 五眼聯盟 | [下载](https://y2mate.com/zh-cn/search/-oHlWE3pLVA) | [下载](zh/201906/e366.srt?raw=true) | [下載](zh/201906/e366.tw.srt?raw=true) |
 |  川普推推推20190623第8期 | [下载](https://y2mate.com/zh-cn/search/c6_MVPPn-pg) | [下载](zh/201906/t008.srt?raw=true) | [下載](zh/201906/t008.tw.srt?raw=true) |
 |  川普推推推20190621第7期 | [下载](https://y2mate.com/zh-cn/search/sHOIOcmD97w) | [下载](zh/201906/t007.srt?raw=true) | [下載](zh/201906/t007.tw.srt?raw=true) |
 |  川普推推推20190620第6期 | [下载](https://y2mate.com/zh-cn/search/yRm9yAtrftc) | [下载](zh/201906/t006.srt?raw=true) | [下載](zh/201906/t006.tw.srt?raw=true) |
