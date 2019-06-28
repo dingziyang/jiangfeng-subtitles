@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 |
 |---|---|---|---|
+|  江峰漫談20190628第6集 | [下载](https://y2mate.com/zh-cn/search/9raYINeOTRg) | [下载](zh/201906/c006.srt?raw=true) | [下載](zh/201906/c006.tw.srt?raw=true) |
 |  川普推推推20190627第9期 | [下载](https://y2mate.com/zh-cn/search/NfOe0PSdarY) | [下载](zh/201906/t009.srt?raw=true) | [下載](zh/201906/t009.tw.srt?raw=true) |
 |  江峰漫談20190626第5集 | [下载](https://y2mate.com/zh-cn/search/qRRWM7hhyAc) | [下载](zh/201906/c005.srt?raw=true) | [下載](zh/201906/c005.tw.srt?raw=true) |
 |  歷史上的今天20190625第366期 - 五眼聯盟 | [下载](https://y2mate.com/zh-cn/search/-oHlWE3pLVA) | [下载](zh/201906/e366.srt?raw=true) | [下載](zh/201906/e366.tw.srt?raw=true) |
