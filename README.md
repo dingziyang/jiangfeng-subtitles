@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20190629第7期 | [下载](https://y2mate.com/zh-cn/search/2BqaaOHWSKI) | [下载](zh/201906/c007.srt?raw=true) | [下載](zh/201906/c007.tw.srt?raw=true) |  [下载](zh/201906/c007.txt?raw=true)  |
 |  江峰漫談20190628第6集 | [下载](https://y2mate.com/zh-cn/search/9raYINeOTRg) | [下载](zh/201906/c006.srt?raw=true) | [下載](zh/201906/c006.tw.srt?raw=true) |  [下载](zh/201906/c006.txt?raw=true)  |
 |  川普推推推20190627第9期 | [下载](https://y2mate.com/zh-cn/search/NfOe0PSdarY) | [下载](zh/201906/t009.srt?raw=true) | [下載](zh/201906/t009.tw.srt?raw=true) |  [下载](zh/201906/t009.txt?raw=true)  |
 |  江峰漫談20190626第5集 | [下载](https://y2mate.com/zh-cn/search/qRRWM7hhyAc) | [下载](zh/201906/c005.srt?raw=true) | [下載](zh/201906/c005.tw.srt?raw=true) |  [下载](zh/201906/c005.txt?raw=true)  |
