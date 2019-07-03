@@ -36,7 +36,8 @@ for lang in $langs; do
 			if [[ ! $vid =~ ^e ]]; then
 				txtLink=" [下载]($txt?raw=true) "
 			else 
-				txtLink="-"
+				txtLink=" [下载]($txt?raw=true) "
+				#txtLink="-"
 			fi
 			echo "| $desc | [下载](https://y2mate.com/zh-cn/search/$id) | [下载]($srt?raw=true) | [下載]($srtTw?raw=true) | $txtLink |" >> $index
 		done < $readme
