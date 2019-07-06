@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20190705第12期 | [下载](https://y2mate.com/zh-cn/search/Iq7RQ3PoITY) | [下载](zh/201907/t012.srt?raw=true) | [下載](zh/201907/t012.tw.srt?raw=true) |  [下载](zh/201907/t012.txt?raw=true)  |
 |  川普推推推20190703第11期 | [下载](https://y2mate.com/zh-cn/search/djBsHxXPff4) | [下载](zh/201907/t011.srt?raw=true) | [下載](zh/201907/t011.tw.srt?raw=true) |  [下载](zh/201907/t011.txt?raw=true)  |
 |  江峰漫談 20190702第8期 | [下载](https://y2mate.com/zh-cn/search/NVYFlJLkQRg) | [下载](zh/201907/c008.srt?raw=true) | [下載](zh/201907/c008.tw.srt?raw=true) |  [下载](zh/201907/c008.txt?raw=true)  |
 |  歷史上的今天20190701第367期 - 香港七·一大遊行 | [下载](https://y2mate.com/zh-cn/search/MM7P1tvjw2g) | [下载](zh/201907/e367.srt?raw=true) | [下載](zh/201907/e367.tw.srt?raw=true) |  [下载](zh/201907/e367.txt?raw=true)  |
