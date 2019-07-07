@@ -181,6 +181,7 @@
 |  歷史上的今天20181225第247期 - 齊奧塞斯庫 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e247.srt?raw=true) | [下載](zh/201812/e247.tw.srt?raw=true) |  [下载](zh/201812/e247.txt?raw=true)  |
 |  歷史上的今天20181226第248期 - 蘇聯解體 | [下载](https://y2mate.com/zh-cn/search/sZLxdtXVtBk) | [下载](zh/201812/e248.srt?raw=true) | [下載](zh/201812/e248.tw.srt?raw=true) |  [下载](zh/201812/e248.txt?raw=true)  |
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e251.srt?raw=true) | [下載](zh/201812/e251.tw.srt?raw=true) |  [下载](zh/201812/e251.txt?raw=true)  |
+|  歷史上的今天20181214第240期 - 三峽大壩的終極命運 | [下载](https://y2mate.com/zh-cn/search/suRggjjijhI) | [下载](zh/201812/e240.srt?raw=true) | [下載](zh/201812/e240.tw.srt?raw=true) |  [下载](zh/201812/e240.txt?raw=true)  |
 |  历史上的今天1203 第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
 |  歷史上的今天20181113 第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
