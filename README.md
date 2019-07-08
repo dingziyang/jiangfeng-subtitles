@@ -183,8 +183,9 @@
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e251.srt?raw=true) | [下載](zh/201812/e251.tw.srt?raw=true) |  [下载](zh/201812/e251.txt?raw=true)  |
 |  歷史上的今天20181214第240期 - 三峽大壩的終極命運 | [下载](https://y2mate.com/zh-cn/search/suRggjjijhI) | [下载](zh/201812/e240.srt?raw=true) | [下載](zh/201812/e240.tw.srt?raw=true) |  [下载](zh/201812/e240.txt?raw=true)  |
 |  历史上的今天1203 第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
-|  歷史上的今天20181113 第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
+|  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
+|  歷史上的今天20181113 第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
 |  历史上的今天20181029第206期 - 纳粹宣传部长戈培尔 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201810/e206.srt?raw=true) | [下載](zh/201810/e206.tw.srt?raw=true) |  [下载](zh/201810/e206.txt?raw=true)  |
 |  歷史上的今天20180920第179期 - 建国门血案 | [下载](https://y2mate.com/zh-cn/search/oi1gzFRePVw) | [下载](zh/201809/e179.srt?raw=true) | [下載](zh/201809/e179.tw.srt?raw=true) |  [下载](zh/201809/e179.txt?raw=true)  |
 |  歷史上的今天20180720第135期 - 迫害法轮功 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201807/e135.srt?raw=true) | [下載](zh/201807/e135.tw.srt?raw=true) |  [下载](zh/201807/e135.txt?raw=true)  |
