@@ -5,10 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181226第248期 - 蘇聯解體 | [下载](https://y2mate.com/zh-cn/search/sZLxdtXVtBk) | [下载](zh/201812/e248.srt?raw=true) | [下載](zh/201812/e248.tw.srt?raw=true) |  [下载](zh/201812/e248.txt?raw=true)  |
-|  歷史上的今天20181214第240期 - 三峽大壩的終極命運 | [下载](https://y2mate.com/zh-cn/search/suRggjjijhI) | [下载](zh/201812/e240.srt?raw=true) | [下載](zh/201812/e240.tw.srt?raw=true) |  [下载](zh/201812/e240.txt?raw=true)  |
-|  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
-|  歷史上的今天20180920第179期 - 建国门血案 | [下载](https://y2mate.com/zh-cn/search/oi1gzFRePVw) | [下载](zh/201809/e179.srt?raw=true) | [下載](zh/201809/e179.tw.srt?raw=true) |  [下载](zh/201809/e179.txt?raw=true)  |
 |  歷史上的今天20190708第368期 - 躲在羅斯福總統身後的紅色間諜 （上） | [下载](https://y2mate.com/zh-cn/search/1tTMa3VclRY) | [下载](zh/201907/e368.srt?raw=true) | [下載](zh/201907/e368.tw.srt?raw=true) |  [下载](zh/201907/e368.txt?raw=true)  |
 |  川普推推推20190705第12期 | [下载](https://y2mate.com/zh-cn/search/Iq7RQ3PoITY) | [下载](zh/201907/t012.srt?raw=true) | [下載](zh/201907/t012.tw.srt?raw=true) |  [下载](zh/201907/t012.txt?raw=true)  |
 |  川普推推推20190703第11期 | [下载](https://y2mate.com/zh-cn/search/djBsHxXPff4) | [下载](zh/201907/t011.srt?raw=true) | [下載](zh/201907/t011.tw.srt?raw=true) |  [下载](zh/201907/t011.txt?raw=true)  |
