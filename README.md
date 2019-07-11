@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20190710第13期 | [下载](https://y2mate.com/zh-cn/search/56LABhac_pQ) | [下载](zh/201907/t013.srt?raw=true) | [下載](zh/201907/t013.tw.srt?raw=true) |  [下载](zh/201907/t013.txt?raw=true)  |
 |  歷史上的今天20190709第369期 - 美國紅色間諜 | [下载](https://y2mate.com/zh-cn/search/Jy5pJsuUkwc) | [下载](zh/201907/e369.srt?raw=true) | [下載](zh/201907/e369.tw.srt?raw=true) |  [下载](zh/201907/e369.txt?raw=true)  |
 |  歷史上的今天20190708第368期 - 躲在羅斯福總統身後的紅色間諜 （上） | [下载](https://y2mate.com/zh-cn/search/1tTMa3VclRY) | [下载](zh/201907/e368.srt?raw=true) | [下載](zh/201907/e368.tw.srt?raw=true) |  [下载](zh/201907/e368.txt?raw=true)  |
 |  川普推推推20190705第12期 | [下载](https://y2mate.com/zh-cn/search/Iq7RQ3PoITY) | [下载](zh/201907/t012.srt?raw=true) | [下載](zh/201907/t012.tw.srt?raw=true) |  [下载](zh/201907/t012.txt?raw=true)  |
