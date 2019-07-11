@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20190711第14期 | [下载](https://y2mate.com/zh-cn/search/4PostUs3RME) | [下载](zh/201907/t014.srt?raw=true) | [下載](zh/201907/t014.tw.srt?raw=true) |  [下载](zh/201907/t014.txt?raw=true)  |
 |  川普推推推20190710第13期 | [下载](https://y2mate.com/zh-cn/search/56LABhac_pQ) | [下载](zh/201907/t013.srt?raw=true) | [下載](zh/201907/t013.tw.srt?raw=true) |  [下载](zh/201907/t013.txt?raw=true)  |
 |  歷史上的今天20190709第369期 - 美國紅色間諜 | [下载](https://y2mate.com/zh-cn/search/Jy5pJsuUkwc) | [下载](zh/201907/e369.srt?raw=true) | [下載](zh/201907/e369.tw.srt?raw=true) |  [下载](zh/201907/e369.txt?raw=true)  |
 |  歷史上的今天20190708第368期 - 躲在羅斯福總統身後的紅色間諜 （上） | [下载](https://y2mate.com/zh-cn/search/1tTMa3VclRY) | [下载](zh/201907/e368.srt?raw=true) | [下載](zh/201907/e368.tw.srt?raw=true) |  [下载](zh/201907/e368.txt?raw=true)  |
@@ -193,5 +194,6 @@
 |  歷史上的今天20180920第179期 - 建国门血案 | [下载](https://y2mate.com/zh-cn/search/oi1gzFRePVw) | [下载](zh/201809/e179.srt?raw=true) | [下載](zh/201809/e179.tw.srt?raw=true) |  [下载](zh/201809/e179.txt?raw=true)  |
 |  歷史上的今天20180720第135期 - 迫害法轮功 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201807/e135.srt?raw=true) | [下載](zh/201807/e135.tw.srt?raw=true) |  [下载](zh/201807/e135.txt?raw=true)  |
 |  歷史上的今天20180709第127期 - 709律师案 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201807/e127.srt?raw=true) | [下載](zh/201807/e127.tw.srt?raw=true) |  [下载](zh/201807/e127.txt?raw=true)  |
+|  歷史上的今天20180620第114期 - 南泥灣鴉片歷史 | [下载](https://y2mate.com/zh-cn/search/xtuTTmD9stc) | [下载](zh/201806/e114.srt?raw=true) | [下載](zh/201806/e114.tw.srt?raw=true) |  [下载](zh/201806/e114.txt?raw=true)  |
 |  历史上的今天20180615第111期 - 义和团围攻西什库教堂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e111.srt?raw=true) | [下載](zh/201806/e111.tw.srt?raw=true) |  [下载](zh/201806/e111.txt?raw=true)  |
 |  历史上的今天20180604第102期 - 八九六四屠城 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e102.srt?raw=true) | [下載](zh/201806/e102.tw.srt?raw=true) |  [下载](zh/201806/e102.txt?raw=true)  |
