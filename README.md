@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20180620第114期 - 南泥灣鴉片歷史 | [下载](https://y2mate.com/zh-cn/search/xtuTTmD9stc) | [下载](zh/201806/e114.srt?raw=true) | [下載](zh/201806/e114.tw.srt?raw=true) |  [下载](zh/201806/e114.txt?raw=true)  |
 |  川普推推推20190711第14期 | [下载](https://y2mate.com/zh-cn/search/4PostUs3RME) | [下载](zh/201907/t014.srt?raw=true) | [下載](zh/201907/t014.tw.srt?raw=true) |  [下载](zh/201907/t014.txt?raw=true)  |
 |  川普推推推20190710第13期 | [下载](https://y2mate.com/zh-cn/search/56LABhac_pQ) | [下载](zh/201907/t013.srt?raw=true) | [下載](zh/201907/t013.tw.srt?raw=true) |  [下载](zh/201907/t013.txt?raw=true)  |
 |  歷史上的今天20190709第369期 - 美國紅色間諜 | [下载](https://y2mate.com/zh-cn/search/Jy5pJsuUkwc) | [下载](zh/201907/e369.srt?raw=true) | [下載](zh/201907/e369.tw.srt?raw=true) |  [下载](zh/201907/e369.txt?raw=true)  |
