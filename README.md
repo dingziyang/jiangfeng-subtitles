@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20190715第370期 - 彭德怀上万言书 | [下载](https://y2mate.com/zh-cn/search/fk4losMmEiw) | [下载](zh/201907/e370.srt?raw=true) | [下載](zh/201907/e370.tw.srt?raw=true) |  [下载](zh/201907/e370.txt?raw=true)  |
 |  《江峰漫談》 20190714第9期 | [下载](https://y2mate.com/zh-cn/search/rLcr7hsuX-k) | [下载](zh/201907/c009.srt?raw=true) | [下載](zh/201907/c009.tw.srt?raw=true) |  [下载](zh/201907/c009.txt?raw=true)  |
 |  川普推推推20190711第14期 | [下载](https://y2mate.com/zh-cn/search/4PostUs3RME) | [下载](zh/201907/t014.srt?raw=true) | [下載](zh/201907/t014.tw.srt?raw=true) |  [下载](zh/201907/t014.txt?raw=true)  |
 |  川普推推推20190710第13期 | [下载](https://y2mate.com/zh-cn/search/56LABhac_pQ) | [下载](zh/201907/t013.srt?raw=true) | [下載](zh/201907/t013.tw.srt?raw=true) |  [下载](zh/201907/t013.txt?raw=true)  |
