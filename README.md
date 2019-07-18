@@ -188,6 +188,7 @@
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e251.srt?raw=true) | [下載](zh/201812/e251.tw.srt?raw=true) |  [下载](zh/201812/e251.txt?raw=true)  |
 |  歷史上的今天20181226第248期 - 蘇聯解體 | [下载](https://y2mate.com/zh-cn/search/sZLxdtXVtBk) | [下载](zh/201812/e248.srt?raw=true) | [下載](zh/201812/e248.tw.srt?raw=true) |  [下载](zh/201812/e248.txt?raw=true)  |
 |  歷史上的今天20181225第247期 - 齊奧塞斯庫 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e247.srt?raw=true) | [下載](zh/201812/e247.tw.srt?raw=true) |  [下载](zh/201812/e247.txt?raw=true)  |
+|  歷史上的今天20181217第241期 - 奧巴馬 | [下载](https://y2mate.com/zh-cn/search/itaOr-JtOrc) | [下载](zh/201812/e241.srt?raw=true) | [下載](zh/201812/e241.tw.srt?raw=true) |  [下载](zh/201812/e241.txt?raw=true)  |
 |  歷史上的今天20181214第240期 - 三峽大壩的終極命運 | [下载](https://y2mate.com/zh-cn/search/suRggjjijhI) | [下载](zh/201812/e240.srt?raw=true) | [下載](zh/201812/e240.tw.srt?raw=true) |  [下载](zh/201812/e240.txt?raw=true)  |
 |  歷史上的今天20181210第236期 - 77年恢復高考 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e236.srt?raw=true) | [下載](zh/201812/e236.tw.srt?raw=true) |  [下载](zh/201812/e236.txt?raw=true)  |
 |  历史上的今天1203 第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
