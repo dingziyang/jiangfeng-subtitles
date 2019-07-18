@@ -5,6 +5,8 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20181217第241期 - 奧巴馬 | [下载](https://y2mate.com/zh-cn/search/itaOr-JtOrc) | [下载](zh/201812/e241.srt?raw=true) | [下載](zh/201812/e241.tw.srt?raw=true) |  [下载](zh/201812/e241.txt?raw=true)  |
+|  歷史上的今天20181212第238期 - 西安事变和赵家人 | [下载](https://y2mate.com/zh-cn/search/tVVoJ4GmKa4) | [下载](zh/201812/e238.srt?raw=true) | [下載](zh/201812/e238.tw.srt?raw=true) |  [下载](zh/201812/e238.txt?raw=true)  |
 |  历史上的今天20190717第371期 - 美国贝尔市丑闻 | [下载](https://y2mate.com/zh-cn/search/S-C93Uzz8-8) | [下载](zh/201907/e371.srt?raw=true) | [下載](zh/201907/e371.tw.srt?raw=true) |  [下载](zh/201907/e371.txt?raw=true)  |
 |  川普推推推20190716第15期 | [下载](https://y2mate.com/zh-cn/search/Ld8SVP8MJVA) | [下载](zh/201907/t015.srt?raw=true) | [下載](zh/201907/t015.tw.srt?raw=true) |  [下载](zh/201907/t015.txt?raw=true)  |
 |  歷史上的今天20190715第370期 - 彭德怀上万言书 | [下载](https://y2mate.com/zh-cn/search/fk4losMmEiw) | [下载](zh/201907/e370.srt?raw=true) | [下載](zh/201907/e370.tw.srt?raw=true) |  [下载](zh/201907/e370.txt?raw=true)  |
