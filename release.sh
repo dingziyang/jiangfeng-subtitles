@@ -1,6 +1,8 @@
 #!/bin/bash
 # author: gfw-breaker
 
+git pull
+
 langs="zh"
 
 index=README.md
