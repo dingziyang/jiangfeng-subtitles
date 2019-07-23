@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20190722第12期 | [下载](https://y2mate.com/zh-cn/search/TdIatrMFiMk) | [下载](zh/201907/c012.srt?raw=true) | [下載](zh/201907/c012.tw.srt?raw=true) |  [下载](zh/201907/c012.txt?raw=true)  |
 |  江峰漫談20190720第11期 | [下载](https://y2mate.com/zh-cn/search/GP65Fb723Fw) | [下载](zh/201907/c011.srt?raw=true) | [下載](zh/201907/c011.tw.srt?raw=true) |  [下载](zh/201907/c011.txt?raw=true)  |
 |  江峰漫談20190719第10期 | [下载](https://y2mate.com/zh-cn/search/oRgp8DE6lF8) | [下载](zh/201907/c010.srt?raw=true) | [下載](zh/201907/c010.tw.srt?raw=true) |  [下载](zh/201907/c010.txt?raw=true)  |
 |  历史上的今天20190717第371期 - 美国贝尔市丑闻 | [下载](https://y2mate.com/zh-cn/search/S-C93Uzz8-8) | [下载](zh/201907/e371.srt?raw=true) | [下載](zh/201907/e371.tw.srt?raw=true) |  [下载](zh/201907/e371.txt?raw=true)  |
