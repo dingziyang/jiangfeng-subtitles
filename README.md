@@ -208,5 +208,6 @@
 |  歷史上的今天20180720第135期 - 迫害法轮功 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201807/e135.srt?raw=true) | [下載](zh/201807/e135.tw.srt?raw=true) |  [下载](zh/201807/e135.txt?raw=true)  |
 |  歷史上的今天20180709第127期 - 709律师案 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201807/e127.srt?raw=true) | [下載](zh/201807/e127.tw.srt?raw=true) |  [下载](zh/201807/e127.txt?raw=true)  |
 |  歷史上的今天20180620第114期 - 南泥灣鴉片歷史 | [下载](https://y2mate.com/zh-cn/search/xtuTTmD9stc) | [下载](zh/201806/e114.srt?raw=true) | [下載](zh/201806/e114.tw.srt?raw=true) |  [下载](zh/201806/e114.txt?raw=true)  |
+|  歷史上的今天20180618第112期 - 紅六月暴力 | [下载](https://y2mate.com/zh-cn/search/TBIYuMmZVLI) | [下载](zh/201806/e112.srt?raw=true) | [下載](zh/201806/e112.tw.srt?raw=true) |  [下载](zh/201806/e112.txt?raw=true)  |
 |  历史上的今天20180615第111期 - 义和团围攻西什库教堂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e111.srt?raw=true) | [下載](zh/201806/e111.tw.srt?raw=true) |  [下载](zh/201806/e111.txt?raw=true)  |
 |  历史上的今天20180604第102期 - 八九六四屠城 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e102.srt?raw=true) | [下載](zh/201806/e102.tw.srt?raw=true) |  [下载](zh/201806/e102.txt?raw=true)  |
