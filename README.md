@@ -5,11 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20180618第112期 - 紅六月暴力 | [下载](https://y2mate.com/zh-cn/search/TBIYuMmZVLI) | [下载](zh/201806/e112.srt?raw=true) | [下載](zh/201806/e112.tw.srt?raw=true) |  [下载](zh/201806/e112.txt?raw=true)  |
-|  歷史上的今天20180808第148期 - 板橋潰壩 | [下载](https://y2mate.com/zh-cn/search/SI0NXSe_lmc) | [下载](zh/201808/e148.srt?raw=true) | [下載](zh/201808/e148.tw.srt?raw=true) |  [下载](zh/201808/e148.txt?raw=true)  |
-|  歷史上的今天20181019第200期 - 志願軍入朝紀實 | [下载](https://y2mate.com/zh-cn/search/f2TtLCtgbgQ) | [下载](zh/201810/e200.srt?raw=true) | [下載](zh/201810/e200.tw.srt?raw=true) |  [下载](zh/201810/e200.txt?raw=true)  |
-|  歷史上的今天20181024第203期 - 一帶一路 | [下载](https://y2mate.com/zh-cn/search/Z7RV22VknRc) | [下载](zh/201810/e203.srt?raw=true) | [下載](zh/201810/e203.tw.srt?raw=true) |  [下载](zh/201810/e203.txt?raw=true)  |
-|  歷史上的今天20181207第235期 - 师达能夫妇撕票案 | [下载](https://y2mate.com/zh-cn/search/pJCwxDjU3r8) | [下载](zh/201812/e235.srt?raw=true) | [下載](zh/201812/e235.tw.srt?raw=true) |  [下载](zh/201812/e235.txt?raw=true)  |
 |  江峰漫談 20190728第14期 | [下载](https://y2mate.com/zh-cn/search/uDLXH7MAPV4) | [下载](zh/201907/c014.srt?raw=true) | [下載](zh/201907/c014.tw.srt?raw=true) |  [下载](zh/201907/c014.txt?raw=true)  |
 |  川普推推推20190725第17期 | [下载](https://y2mate.com/zh-cn/search/eo7TCl84Nu8) | [下载](zh/201907/t017.srt?raw=true) | [下載](zh/201907/t017.tw.srt?raw=true) |  [下载](zh/201907/t017.txt?raw=true)  |
 |  川普推推推20190724第16期 | [下载](https://y2mate.com/zh-cn/search/jpkH8yWJOFs) | [下载](zh/201907/t016.srt?raw=true) | [下載](zh/201907/t016.tw.srt?raw=true) |  [下载](zh/201907/t016.txt?raw=true)  |
@@ -219,4 +214,5 @@
 |  歷史上的今天20180620第114期 - 南泥灣鴉片歷史 | [下载](https://y2mate.com/zh-cn/search/xtuTTmD9stc) | [下载](zh/201806/e114.srt?raw=true) | [下載](zh/201806/e114.tw.srt?raw=true) |  [下载](zh/201806/e114.txt?raw=true)  |
 |  歷史上的今天20180618第112期 - 紅六月暴力 | [下载](https://y2mate.com/zh-cn/search/TBIYuMmZVLI) | [下载](zh/201806/e112.srt?raw=true) | [下載](zh/201806/e112.tw.srt?raw=true) |  [下载](zh/201806/e112.txt?raw=true)  |
 |  历史上的今天20180615第111期 - 义和团围攻西什库教堂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e111.srt?raw=true) | [下載](zh/201806/e111.tw.srt?raw=true) |  [下载](zh/201806/e111.txt?raw=true)  |
+|  歷史上的今天20180608第106期 - 林昭的血衣 | [下载](https://y2mate.com/zh-cn/search/8ZatkVdU-DA) | [下载](zh/201806/e106.srt?raw=true) | [下載](zh/201806/e106.tw.srt?raw=true) |  [下载](zh/201806/e106.txt?raw=true)  |
 |  历史上的今天20180604第102期 - 八九六四屠城 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e102.srt?raw=true) | [下載](zh/201806/e102.tw.srt?raw=true) |  [下载](zh/201806/e102.txt?raw=true)  |
