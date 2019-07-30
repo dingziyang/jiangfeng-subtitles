@@ -5,7 +5,8 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  江峰漫談 20190728第14期 | [下载](https://y2mate.com/zh-cn/search/uDLXH7MAPV4) | [下载](zh/201907/c014.srt?raw=true) | [下載](zh/201907/c014.tw.srt?raw=true) |  [下载](zh/201907/c014.txt?raw=true)  |
+|  江峰漫談20190729第15期 | [下载](https://y2mate.com/zh-cn/search/LZIc9qpULyM) | [下载](zh/201907/c015.srt?raw=true) | [下載](zh/201907/c015.tw.srt?raw=true) |  [下载](zh/201907/c015.txt?raw=true)  |
+|  江峰漫談20190728第14期 | [下载](https://y2mate.com/zh-cn/search/uDLXH7MAPV4) | [下载](zh/201907/c014.srt?raw=true) | [下載](zh/201907/c014.tw.srt?raw=true) |  [下载](zh/201907/c014.txt?raw=true)  |
 |  川普推推推20190725第17期 | [下载](https://y2mate.com/zh-cn/search/eo7TCl84Nu8) | [下载](zh/201907/t017.srt?raw=true) | [下載](zh/201907/t017.tw.srt?raw=true) |  [下载](zh/201907/t017.txt?raw=true)  |
 |  川普推推推20190724第16期 | [下载](https://y2mate.com/zh-cn/search/jpkH8yWJOFs) | [下载](zh/201907/t016.srt?raw=true) | [下載](zh/201907/t016.tw.srt?raw=true) |  [下载](zh/201907/t016.txt?raw=true)  |
 |  江峰漫談20190723第13期 | [下载](https://y2mate.com/zh-cn/search/wulLVG4uXW0) | [下载](zh/201907/c013.srt?raw=true) | [下載](zh/201907/c013.tw.srt?raw=true) |  [下载](zh/201907/c013.txt?raw=true)  |
