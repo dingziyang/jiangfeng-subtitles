@@ -5,8 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20180924第181期 - 中英香港问题高峰会 | [下载](https://y2mate.com/zh-cn/search/D4M-TDWuU4A) | [下载](zh/201809/e181.srt?raw=true) | [下載](zh/201809/e181.tw.srt?raw=true) |  [下载](zh/201809/e181.txt?raw=true)  |
-|  歷史上的今天20181015第196期 - 习仲勋 | [下载](https://y2mate.com/zh-cn/search/h_B3k988Eck) | [下载](zh/201810/e196.srt?raw=true) | [下載](zh/201810/e196.tw.srt?raw=true) |  [下载](zh/201810/e196.txt?raw=true)  |
 |  川普推推推20190731第18期 | [下载](https://y2mate.com/zh-cn/search/aI0gxTwWDHc) | [下载](zh/201907/t018.srt?raw=true) | [下載](zh/201907/t018.tw.srt?raw=true) |  [下载](zh/201907/t018.txt?raw=true)  |
 |  江峰漫談20190730第16期 | [下载](https://y2mate.com/zh-cn/search/Hw9P3ODf6ik) | [下载](zh/201907/c016.srt?raw=true) | [下載](zh/201907/c016.tw.srt?raw=true) |  [下载](zh/201907/c016.txt?raw=true)  |
 |  江峰漫談20190729第15期 | [下载](https://y2mate.com/zh-cn/search/LZIc9qpULyM) | [下载](zh/201907/c015.srt?raw=true) | [下載](zh/201907/c015.tw.srt?raw=true) |  [下载](zh/201907/c015.txt?raw=true)  |
