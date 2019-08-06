@@ -28,7 +28,8 @@
 
 8
 00:00:35,820 --> 00:00:40,380
-它被稱作貨幣操縱  It's currency manipulation
+它被稱作貨幣操縱  
+It's calledcurrency manipulation
 
 9
 00:00:40,440 --> 00:00:43,580
