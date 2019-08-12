@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談 20190812第22期 | [下载](https://y2mate.com/zh-cn/search/fTtn5LYmRE0) | [下载](zh/201908/c022.srt?raw=true) | [下載](zh/201908/c022.tw.srt?raw=true) |  [下载](zh/201908/c022.txt?raw=true)  |
 |  江峰漫談20190808第21期 | [下载](https://y2mate.com/zh-cn/search/d0fpcmDDeUc) | [下载](zh/201908/c021.srt?raw=true) | [下載](zh/201908/c021.tw.srt?raw=true) |  [下载](zh/201908/c021.txt?raw=true)  |
 |  江峰漫談 20190807第20期 | [下载](https://y2mate.com/zh-cn/search/tOqbmaZ4AsM) | [下载](zh/201908/c020.srt?raw=true) | [下載](zh/201908/c020.tw.srt?raw=true) |  [下载](zh/201908/c020.txt?raw=true)  |
 |  江峰漫談 20190806第19期 | [下载](https://y2mate.com/zh-cn/search/ljNp-ftw8Qo) | [下载](zh/201908/c019.srt?raw=true) | [下載](zh/201908/c019.tw.srt?raw=true) |  [下载](zh/201908/c019.txt?raw=true)  |
