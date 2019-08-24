@@ -5,7 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181220第244期 - 傅斯年 | [下载](https://y2mate.com/zh-cn/search/xg3Oj_4JjPc) | [下载](zh/201812/e244.srt?raw=true) | [下載](zh/201812/e244.tw.srt?raw=true) |  [下载](zh/201812/e244.txt?raw=true)  |
 |  川普推推推20190823第24期 | [下载](https://y2mate.com/zh-cn/search/8rly1cFRHI0) | [下载](zh/201908/t024.srt?raw=true) | [下載](zh/201908/t024.tw.srt?raw=true) |  [下载](zh/201908/t024.txt?raw=true)  |
 |  江峰漫談20190822第28期 | [下载](https://y2mate.com/zh-cn/search/AHmdKFrTXIo) | [下载](zh/201908/c028.srt?raw=true) | [下載](zh/201908/c028.tw.srt?raw=true) |  [下载](zh/201908/c028.txt?raw=true)  |
 |  江峰漫談20190821第27期 | [下载](https://y2mate.com/zh-cn/search/uE131RciEcw) | [下载](zh/201908/c027.srt?raw=true) | [下載](zh/201908/c027.tw.srt?raw=true) |  [下载](zh/201908/c027.txt?raw=true)  |
@@ -225,7 +224,8 @@
 |  历史上的今天1203 第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
 |  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
-|  歷史上的今天20181113 第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
+|  歷史上的今天20181113第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
+|  歷史上的今天20181109第215期 - 兩航事件 | [下载](https://y2mate.com/zh-cn/search/uO2FLayVaz8) | [下载](zh/201811/e215.srt?raw=true) | [下載](zh/201811/e215.tw.srt?raw=true) |  [下载](zh/201811/e215.txt?raw=true)  |
 |  历史上的今天20181029第206期 - 纳粹宣传部长戈培尔 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201810/e206.srt?raw=true) | [下載](zh/201810/e206.tw.srt?raw=true) |  [下载](zh/201810/e206.txt?raw=true)  |
 |  歷史上的今天20181024第203期 - 一帶一路 | [下载](https://y2mate.com/zh-cn/search/Z7RV22VknRc) | [下载](zh/201810/e203.srt?raw=true) | [下載](zh/201810/e203.tw.srt?raw=true) |  [下载](zh/201810/e203.txt?raw=true)  |
 |  歷史上的今天20181019第200期 - 志願軍入朝紀實 | [下载](https://y2mate.com/zh-cn/search/f2TtLCtgbgQ) | [下载](zh/201810/e200.srt?raw=true) | [下載](zh/201810/e200.tw.srt?raw=true) |  [下载](zh/201810/e200.txt?raw=true)  |
