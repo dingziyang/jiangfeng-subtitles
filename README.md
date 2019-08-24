@@ -6,6 +6,7 @@
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
 |  川普推推推20190823第24期 | [下载](https://y2mate.com/zh-cn/search/8rly1cFRHI0) | [下载](zh/201908/t024.srt?raw=true) | [下載](zh/201908/t024.tw.srt?raw=true) |  [下载](zh/201908/t024.txt?raw=true)  |
+|  江峰漫談20190822第28期 | [下载](https://y2mate.com/zh-cn/search/AHmdKFrTXIo) | [下载](zh/201908/c028.srt?raw=true) | [下載](zh/201908/c028.tw.srt?raw=true) |  [下载](zh/201908/c028.txt?raw=true)  |
 |  江峰漫談20190821第27期 | [下载](https://y2mate.com/zh-cn/search/uE131RciEcw) | [下载](zh/201908/c027.srt?raw=true) | [下載](zh/201908/c027.tw.srt?raw=true) |  [下载](zh/201908/c027.txt?raw=true)  |
 |  江峰漫談20190820第26期 | [下载](https://y2mate.com/zh-cn/search/AcTv36hIVjo) | [下载](zh/201908/c026.srt?raw=true) | [下載](zh/201908/c026.tw.srt?raw=true) |  [下载](zh/201908/c026.txt?raw=true)  |
 |  江峰漫談20190818第25期 | [下载](https://y2mate.com/zh-cn/search/72sC14lX0OA) | [下载](zh/201908/c025.srt?raw=true) | [下載](zh/201908/c025.tw.srt?raw=true) |  [下载](zh/201908/c025.txt?raw=true)  |
