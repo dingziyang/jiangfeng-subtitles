@@ -200,7 +200,7 @@
 |  歷史上的今天0116第263期 - 海湾战争 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e263.srt?raw=true) | [下載](zh/201901/e263.tw.srt?raw=true) |  [下载](zh/201901/e263.txt?raw=true)  |
 |  歷史上的今天0115第262期 - 萨利机长 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e262.srt?raw=true) | [下載](zh/201901/e262.tw.srt?raw=true) |  [下载](zh/201901/e262.txt?raw=true)  |
 |  《週末漫談》20190113第8期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/w008.srt?raw=true) | [下載](zh/201901/w008.tw.srt?raw=true) |  [下载](zh/201901/w008.txt?raw=true)  |
-|  歷史上的今天0114第261期 - 四清運動 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e261.srt?raw=true) | [下載](zh/201901/e261.tw.srt?raw=true) |  [下载](zh/201901/e261.txt?raw=true)  |
+|  歷史上的今天20190114第261期 - 四清運動 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e261.srt?raw=true) | [下載](zh/201901/e261.tw.srt?raw=true) |  [下载](zh/201901/e261.txt?raw=true)  |
 |  《週末漫談》20190112第7期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/w007.srt?raw=true) | [下載](zh/201901/w007.tw.srt?raw=true) |  [下载](zh/201901/w007.txt?raw=true)  |
 |  歷史上的今天20190111第260期 - 沙龍 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e260.srt?raw=true) | [下載](zh/201901/e260.tw.srt?raw=true) |  [下载](zh/201901/e260.txt?raw=true)  |
 |  歷史上的今天20190110第259期 - 托馬斯·潘恩 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e259.srt?raw=true) | [下載](zh/201901/e259.tw.srt?raw=true) |  [下载](zh/201901/e259.txt?raw=true)  |
@@ -221,7 +221,7 @@
 |  歷史上的今天20181212第238期 - 西安事变和赵家人 | [下载](https://y2mate.com/zh-cn/search/tVVoJ4GmKa4) | [下载](zh/201812/e238.srt?raw=true) | [下載](zh/201812/e238.tw.srt?raw=true) |  [下载](zh/201812/e238.txt?raw=true)  |
 |  歷史上的今天20181210第236期 - 77年恢復高考 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e236.srt?raw=true) | [下載](zh/201812/e236.tw.srt?raw=true) |  [下载](zh/201812/e236.txt?raw=true)  |
 |  歷史上的今天20181207第235期 - 师达能夫妇撕票案 | [下载](https://y2mate.com/zh-cn/search/pJCwxDjU3r8) | [下载](zh/201812/e235.srt?raw=true) | [下載](zh/201812/e235.tw.srt?raw=true) |  [下载](zh/201812/e235.txt?raw=true)  |
-|  历史上的今天1203 第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
+|  历史上的今天20181203第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
 |  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
 |  歷史上的今天20181113第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
