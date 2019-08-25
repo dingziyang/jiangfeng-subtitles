@@ -5,6 +5,8 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20181123第225期 - 拉貝日記 | [下载](https://y2mate.com/zh-cn/search/rK_EVVVQfBs) | [下载](zh/201811/e225.srt?raw=true) | [下載](zh/201811/e225.tw.srt?raw=true) |  [下载](zh/201811/e225.txt?raw=true)  |
+|  歷史上的今天20181109第215期 - 兩航事件 | [下载](https://y2mate.com/zh-cn/search/uO2FLayVaz8) | [下载](zh/201811/e215.srt?raw=true) | [下載](zh/201811/e215.tw.srt?raw=true) |  [下载](zh/201811/e215.txt?raw=true)  |
 |  川普推推推20190823第24期 | [下载](https://y2mate.com/zh-cn/search/8rly1cFRHI0) | [下载](zh/201908/t024.srt?raw=true) | [下載](zh/201908/t024.tw.srt?raw=true) |  [下载](zh/201908/t024.txt?raw=true)  |
 |  江峰漫談20190822第28期 | [下载](https://y2mate.com/zh-cn/search/AHmdKFrTXIo) | [下载](zh/201908/c028.srt?raw=true) | [下載](zh/201908/c028.tw.srt?raw=true) |  [下载](zh/201908/c028.txt?raw=true)  |
 |  江峰漫談20190821第27期 | [下载](https://y2mate.com/zh-cn/search/uE131RciEcw) | [下载](zh/201908/c027.srt?raw=true) | [下載](zh/201908/c027.tw.srt?raw=true) |  [下载](zh/201908/c027.txt?raw=true)  |
