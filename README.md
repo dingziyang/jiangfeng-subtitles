@@ -1,7 +1,7 @@
 ### 《江峰时刻》节目字幕
 
 ---
-##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;|&nbsp;[《江峰时刻》会员网站](https://www.jfengtime.com/) &nbsp;|&nbsp; [白玫瑰传单](https://github.com/gfw-breaker/DieWeisseRose) &nbsp;|&nbsp; [明慧期刊](https://github.com/gfw-breaker/mh-qikan)
+##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;|&nbsp;[《江峰时刻》会员网站](https://www.jfengtime.com/) &nbsp;|&nbsp; [白玫瑰传单](https://github.com/gfw-breaker/DieWeisseRose)
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
