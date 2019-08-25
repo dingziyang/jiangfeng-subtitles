@@ -1,7 +1,7 @@
 ### 《江峰时刻》节目字幕
 
 ---
-##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;|&nbsp;[《江峰时刻》会员网站](https://www.jfengtime.com/) &nbsp;|&nbsp; [白玫瑰传单](https://github.com/gfw-breaker/DieWeisseRose)
+##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news) &nbsp;|&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;|&nbsp;[《江峰时刻》会员网站](https://www.jfengtime.com/) &nbsp;|&nbsp; [白玫瑰传单](https://github.com/gfw-breaker/DieWeisseRose) &nbsp;|&nbsp; [明慧期刊](https://github.com/gfw-breaker/mh-qikan)
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@
 |  歷史上的今天20181210第236期 - 77年恢復高考 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e236.srt?raw=true) | [下載](zh/201812/e236.tw.srt?raw=true) |  [下载](zh/201812/e236.txt?raw=true)  |
 |  歷史上的今天20181207第235期 - 师达能夫妇撕票案 | [下载](https://y2mate.com/zh-cn/search/pJCwxDjU3r8) | [下载](zh/201812/e235.srt?raw=true) | [下載](zh/201812/e235.tw.srt?raw=true) |  [下载](zh/201812/e235.txt?raw=true)  |
 |  历史上的今天20181203第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
+|  歷史上的今天20181123第225期 - 拉貝日記 | [下载](https://y2mate.com/zh-cn/search/rK_EVVVQfBs) | [下载](zh/201811/e225.srt?raw=true) | [下載](zh/201811/e225.tw.srt?raw=true) |  [下载](zh/201811/e225.txt?raw=true)  |
 |  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
 |  歷史上的今天20181113第217期 - 克林德牌坊 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e217.srt?raw=true) | [下載](zh/201811/e217.tw.srt?raw=true) |  [下载](zh/201811/e217.txt?raw=true)  |
