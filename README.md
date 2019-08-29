@@ -226,6 +226,7 @@
 |  歷史上的今天20181210第236期 - 77年恢復高考 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e236.srt?raw=true) | [下載](zh/201812/e236.tw.srt?raw=true) |  [下载](zh/201812/e236.txt?raw=true)  |
 |  歷史上的今天20181207第235期 - 师达能夫妇撕票案 | [下载](https://y2mate.com/zh-cn/search/pJCwxDjU3r8) | [下载](zh/201812/e235.srt?raw=true) | [下載](zh/201812/e235.tw.srt?raw=true) |  [下载](zh/201812/e235.txt?raw=true)  |
 |  历史上的今天20181203第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
+|  歷史上的今天20181127第227期 - 中美合作所与渣滓洞屠杀 | [下载](https://y2mate.com/zh-cn/search/NXMTm2M6z28) | [下载](zh/201811/e227.srt?raw=true) | [下載](zh/201811/e227.tw.srt?raw=true) |  [下载](zh/201811/e227.txt?raw=true)  |
 |  歷史上的今天20181123第225期 - 拉貝日記 | [下载](https://y2mate.com/zh-cn/search/rK_EVVVQfBs) | [下载](zh/201811/e225.srt?raw=true) | [下載](zh/201811/e225.tw.srt?raw=true) |  [下载](zh/201811/e225.txt?raw=true)  |
 |  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
 |  历史上的今天20181116第220期 - 郭沫若 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201811/e220.srt?raw=true) | [下載](zh/201811/e220.tw.srt?raw=true) |  [下载](zh/201811/e220.txt?raw=true)  |
