@@ -5,7 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181227第249期 - 抗日名将薛岳 | [下载](https://y2mate.com/zh-cn/search/1MgMo3jG4as) | [下载](zh/201812/e249.srt?raw=true) | [下載](zh/201812/e249.tw.srt?raw=true) |  [下载](zh/201812/e249.txt?raw=true)  |
+|  江峰漫談20190901第33期 | [下载](https://y2mate.com/zh-cn/search/h_J0-e8qFJw) | [下载](zh/201909/c033.srt?raw=true) | [下載](zh/201909/c033.tw.srt?raw=true) |  [下载](zh/201909/c033.txt?raw=true)  |
 |  歷史上的今天20180831第165期 - 李察基爾 | [下载](https://y2mate.com/zh-cn/search/pzuksG-N6S0) | [下载](zh/201908/e165.srt?raw=true) | [下載](zh/201908/e165.tw.srt?raw=true) |  [下载](zh/201908/e165.txt?raw=true)  |
 |  江峰漫談20190829第32期 | [下载](https://y2mate.com/zh-cn/search/4mm1w5GBQf8) | [下载](zh/201908/c032.srt?raw=true) | [下載](zh/201908/c032.tw.srt?raw=true) |  [下载](zh/201908/c032.txt?raw=true)  |
 |  江峰漫談20190828第31期 | [下载](https://y2mate.com/zh-cn/search/MXYfzEoxXgQ) | [下载](zh/201908/c031.srt?raw=true) | [下載](zh/201908/c031.tw.srt?raw=true) |  [下载](zh/201908/c031.txt?raw=true)  |
