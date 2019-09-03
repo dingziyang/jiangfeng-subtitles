@@ -5,7 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181129第229期 - 高爾基 | [下载](https://y2mate.com/zh-cn/search/NWDWOU7H0zs) | [下载](zh/201811/e229.srt?raw=true) | [下載](zh/201811/e229.tw.srt?raw=true) |  [下载](zh/201811/e229.txt?raw=true)  |
 |  江峰漫談20190903第34期 | [下载](https://y2mate.com/zh-cn/search/3HhCAulaaqE) | [下载](zh/201909/c034.srt?raw=true) | [下載](zh/201909/c034.tw.srt?raw=true) |  [下载](zh/201909/c034.txt?raw=true)  |
 |  江峰漫談20190901第33期 | [下载](https://y2mate.com/zh-cn/search/h_J0-e8qFJw) | [下载](zh/201909/c033.srt?raw=true) | [下載](zh/201909/c033.tw.srt?raw=true) |  [下载](zh/201909/c033.txt?raw=true)  |
 |  歷史上的今天20180831第165期 - 李察基爾 | [下载](https://y2mate.com/zh-cn/search/pzuksG-N6S0) | [下载](zh/201908/e165.srt?raw=true) | [下載](zh/201908/e165.tw.srt?raw=true) |  [下载](zh/201908/e165.txt?raw=true)  |
