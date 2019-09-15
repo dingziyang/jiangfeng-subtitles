@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20190915第40期 | [下载](https://y2mate.com/zh-cn/search/uSkNF_mH7Tk) | [下载](zh/201909/c040.srt?raw=true) | [下載](zh/201909/c040.tw.srt?raw=true) |  [下载](zh/201909/c040.txt?raw=true)  |
 |  江峰漫談20190912第39期 | [下载](https://y2mate.com/zh-cn/search/SH_PPrNHxsM) | [下载](zh/201909/c039.srt?raw=true) | [下載](zh/201909/c039.tw.srt?raw=true) |  [下载](zh/201909/c039.txt?raw=true)  |
 |  江峰漫談20190911第38期 | [下载](https://y2mate.com/zh-cn/search/2_ikEqYN_Uo) | [下载](zh/201909/c038.srt?raw=true) | [下載](zh/201909/c038.tw.srt?raw=true) |  [下载](zh/201909/c038.txt?raw=true)  |
 |  江峰漫談20190909第37期 | [下载](https://y2mate.com/zh-cn/search/1UJMRmHWINU) | [下载](zh/201909/c037.srt?raw=true) | [下載](zh/201909/c037.tw.srt?raw=true) |  [下载](zh/201909/c037.txt?raw=true)  |
