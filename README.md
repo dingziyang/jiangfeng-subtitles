@@ -261,5 +261,6 @@
 |  歷史上的今天20180620第114期 - 南泥灣鴉片歷史 | [下载](https://y2mate.com/zh-cn/search/xtuTTmD9stc) | [下载](zh/201806/e114.srt?raw=true) | [下載](zh/201806/e114.tw.srt?raw=true) |  [下载](zh/201806/e114.txt?raw=true)  |
 |  歷史上的今天20180618第112期 - 紅六月暴力 | [下载](https://y2mate.com/zh-cn/search/TBIYuMmZVLI) | [下载](zh/201806/e112.srt?raw=true) | [下載](zh/201806/e112.tw.srt?raw=true) |  [下载](zh/201806/e112.txt?raw=true)  |
 |  历史上的今天20180615第111期 - 义和团围攻西什库教堂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e111.srt?raw=true) | [下載](zh/201806/e111.tw.srt?raw=true) |  [下载](zh/201806/e111.txt?raw=true)  |
+|  歷史上的今天20180614第110期 - 格瓦拉 | [下载](https://y2mate.com/zh-cn/search/LEU7uKYN-Uw) | [下载](zh/201806/e110.srt?raw=true) | [下載](zh/201806/e110.tw.srt?raw=true) |  [下载](zh/201806/e110.txt?raw=true)  |
 |  歷史上的今天20180608第106期 - 林昭的血衣 | [下载](https://y2mate.com/zh-cn/search/8ZatkVdU-DA) | [下载](zh/201806/e106.srt?raw=true) | [下載](zh/201806/e106.tw.srt?raw=true) |  [下载](zh/201806/e106.txt?raw=true)  |
 |  历史上的今天20180604第102期 - 八九六四屠城 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201806/e102.srt?raw=true) | [下載](zh/201806/e102.tw.srt?raw=true) |  [下载](zh/201806/e102.txt?raw=true)  |
