@@ -237,6 +237,7 @@
 |  歷史上的今天20181212第238期 - 西安事变和赵家人 | [下载](https://y2mate.com/zh-cn/search/tVVoJ4GmKa4) | [下载](zh/201812/e238.srt?raw=true) | [下載](zh/201812/e238.tw.srt?raw=true) |  [下载](zh/201812/e238.txt?raw=true)  |
 |  歷史上的今天20181210第236期 - 77年恢復高考 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e236.srt?raw=true) | [下載](zh/201812/e236.tw.srt?raw=true) |  [下载](zh/201812/e236.txt?raw=true)  |
 |  歷史上的今天20181207第235期 - 师达能夫妇撕票案 | [下载](https://y2mate.com/zh-cn/search/pJCwxDjU3r8) | [下载](zh/201812/e235.srt?raw=true) | [下載](zh/201812/e235.tw.srt?raw=true) |  [下载](zh/201812/e235.txt?raw=true)  |
+|  歷史上的今天20181204第232期 - 阿炳《二泉映月》 | [下载](https://y2mate.com/zh-cn/search/Jn1INKkZVOs) | [下载](zh/201812/e232.srt?raw=true) | [下載](zh/201812/e232.tw.srt?raw=true) |  [下载](zh/201812/e232.txt?raw=true)  |
 |  历史上的今天20181203第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
 |  歷史上的今天20181129第229期 - 高爾基 | [下载](https://y2mate.com/zh-cn/search/NWDWOU7H0zs) | [下载](zh/201811/e229.srt?raw=true) | [下載](zh/201811/e229.tw.srt?raw=true) |  [下载](zh/201811/e229.txt?raw=true)  |
 |  歷史上的今天20181127第227期 - 中美合作所与渣滓洞屠杀 | [下载](https://y2mate.com/zh-cn/search/NXMTm2M6z28) | [下载](zh/201811/e227.srt?raw=true) | [下載](zh/201811/e227.tw.srt?raw=true) |  [下载](zh/201811/e227.txt?raw=true)  |
