@@ -5,6 +5,10 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20181010第193期 - 林语堂 | [下载](https://y2mate.com/zh-cn/search/tNnkTayTGlA) | [下载](zh/201810/e193.srt?raw=true) | [下載](zh/201810/e193.tw.srt?raw=true) |  [下载](zh/201810/e193.txt?raw=true)  |
+|  歷史上的今天20180830第164期 - 錢穆 | [下载](https://y2mate.com/zh-cn/search/ahqTJ4viIts) | [下载](zh/201808/e164.srt?raw=true) | [下載](zh/201808/e164.tw.srt?raw=true) |  [下载](zh/201808/e164.txt?raw=true)  |
+|  歷史上的今天20180810第150期 - 十世班禪 | [下载](https://y2mate.com/zh-cn/search/tTzRY7F_1OU) | [下载](zh/201808/e150.srt?raw=true) | [下載](zh/201808/e150.tw.srt?raw=true) |  [下载](zh/201808/e150.txt?raw=true)  |
+|  歷史上的今天20180614第110期 - 格瓦拉 | [下载](https://y2mate.com/zh-cn/search/LEU7uKYN-Uw) | [下载](zh/201806/e110.srt?raw=true) | [下載](zh/201806/e110.tw.srt?raw=true) |  [下载](zh/201806/e110.txt?raw=true)  |
 |  江峰漫談20190915第40期 | [下载](https://y2mate.com/zh-cn/search/uSkNF_mH7Tk) | [下载](zh/201909/c040.srt?raw=true) | [下載](zh/201909/c040.tw.srt?raw=true) |  [下载](zh/201909/c040.txt?raw=true)  |
 |  江峰漫談20190912第39期 | [下载](https://y2mate.com/zh-cn/search/SH_PPrNHxsM) | [下载](zh/201909/c039.srt?raw=true) | [下載](zh/201909/c039.tw.srt?raw=true) |  [下载](zh/201909/c039.txt?raw=true)  |
 |  江峰漫談20190911第38期 | [下载](https://y2mate.com/zh-cn/search/2_ikEqYN_Uo) | [下载](zh/201909/c038.srt?raw=true) | [下載](zh/201909/c038.tw.srt?raw=true) |  [下载](zh/201909/c038.txt?raw=true)  |
