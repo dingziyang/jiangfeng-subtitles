@@ -10,7 +10,7 @@
 |  江峰漫談20190912第39期 | [下载](https://y2mate.com/zh-cn/search/SH_PPrNHxsM) | [下载](zh/201909/c039.srt?raw=true) | [下載](zh/201909/c039.tw.srt?raw=true) |  [下载](zh/201909/c039.txt?raw=true)  |
 |  江峰漫談20190911第38期 | [下载](https://y2mate.com/zh-cn/search/2_ikEqYN_Uo) | [下载](zh/201909/c038.srt?raw=true) | [下載](zh/201909/c038.tw.srt?raw=true) |  [下载](zh/201909/c038.txt?raw=true)  |
 |  江峰漫談20190909第37期 | [下载](https://y2mate.com/zh-cn/search/1UJMRmHWINU) | [下载](zh/201909/c037.srt?raw=true) | [下載](zh/201909/c037.tw.srt?raw=true) |  [下载](zh/201909/c037.txt?raw=true)  |
-|  历史上的今天20190906第372期 - 波羅的海之路 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e372.srt?raw=true) | [下載](zh/201909/e372.tw.srt?raw=true) |  [下载](zh/201909/e372.txt?raw=true)  |
+|  （修正版）历史上的今天20190906第372期 - 波羅的海之路 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e372.srt?raw=true) | [下載](zh/201909/e372.tw.srt?raw=true) |  [下载](zh/201909/e372.txt?raw=true)  |
 |  江峰漫談20190905第36期 | [下载](https://y2mate.com/zh-cn/search/RscbDvVYtOQ) | [下载](zh/201909/c036.srt?raw=true) | [下載](zh/201909/c036.tw.srt?raw=true) |  [下载](zh/201909/c036.txt?raw=true)  |
 |  江峰漫談20190904第35期 | [下载](https://y2mate.com/zh-cn/search/y6FLmUeUUBY) | [下载](zh/201909/c035.srt?raw=true) | [下載](zh/201909/c035.tw.srt?raw=true) |  [下载](zh/201909/c035.txt?raw=true)  |
 |  江峰漫談20190903第34期 | [下载](https://y2mate.com/zh-cn/search/3HhCAulaaqE) | [下载](zh/201909/c034.srt?raw=true) | [下載](zh/201909/c034.tw.srt?raw=true) |  [下载](zh/201909/c034.txt?raw=true)  |
