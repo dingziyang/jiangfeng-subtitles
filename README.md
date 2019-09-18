@@ -5,13 +5,14 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20190918第42期 | [下载](https://y2mate.com/zh-cn/search/u5wI29-383I) | [下载](zh/201909/c042.srt?raw=true) | [下載](zh/201909/c042.tw.srt?raw=true) |  [下载](zh/201909/c042.txt?raw=true)  |
 |  江峰漫談20190917第41期 | [下载](https://y2mate.com/zh-cn/search/dgf8pF0Rbb4) | [下载](zh/201909/c041.srt?raw=true) | [下載](zh/201909/c041.tw.srt?raw=true) |  [下载](zh/201909/c041.txt?raw=true)  |
 |  历史上的今天20190916第373期 - 伯格理牛皮大的学校 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e373.srt?raw=true) | [下載](zh/201909/e373.tw.srt?raw=true) |  [下载](zh/201909/e373.txt?raw=true)  |
 |  江峰漫談20190915第40期 | [下载](https://y2mate.com/zh-cn/search/uSkNF_mH7Tk) | [下载](zh/201909/c040.srt?raw=true) | [下載](zh/201909/c040.tw.srt?raw=true) |  [下载](zh/201909/c040.txt?raw=true)  |
 |  江峰漫談20190912第39期 | [下载](https://y2mate.com/zh-cn/search/SH_PPrNHxsM) | [下载](zh/201909/c039.srt?raw=true) | [下載](zh/201909/c039.tw.srt?raw=true) |  [下载](zh/201909/c039.txt?raw=true)  |
 |  江峰漫談20190911第38期 | [下载](https://y2mate.com/zh-cn/search/2_ikEqYN_Uo) | [下载](zh/201909/c038.srt?raw=true) | [下載](zh/201909/c038.tw.srt?raw=true) |  [下载](zh/201909/c038.txt?raw=true)  |
 |  江峰漫談20190909第37期 | [下载](https://y2mate.com/zh-cn/search/1UJMRmHWINU) | [下载](zh/201909/c037.srt?raw=true) | [下載](zh/201909/c037.tw.srt?raw=true) |  [下载](zh/201909/c037.txt?raw=true)  |
-|  （修正版）历史上的今天20190906第372期 - 波羅的海之路 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e372.srt?raw=true) | [下載](zh/201909/e372.tw.srt?raw=true) |  [下载](zh/201909/e372.txt?raw=true)  |
+|  历史上的今天20190906第372期 - 波羅的海之路 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e372.srt?raw=true) | [下載](zh/201909/e372.tw.srt?raw=true) |  [下载](zh/201909/e372.txt?raw=true)  |
 |  江峰漫談20190905第36期 | [下载](https://y2mate.com/zh-cn/search/RscbDvVYtOQ) | [下载](zh/201909/c036.srt?raw=true) | [下載](zh/201909/c036.tw.srt?raw=true) |  [下载](zh/201909/c036.txt?raw=true)  |
 |  江峰漫談20190904第35期 | [下载](https://y2mate.com/zh-cn/search/y6FLmUeUUBY) | [下载](zh/201909/c035.srt?raw=true) | [下載](zh/201909/c035.tw.srt?raw=true) |  [下载](zh/201909/c035.txt?raw=true)  |
 |  江峰漫談20190903第34期 | [下载](https://y2mate.com/zh-cn/search/3HhCAulaaqE) | [下载](zh/201909/c034.srt?raw=true) | [下載](zh/201909/c034.tw.srt?raw=true) |  [下载](zh/201909/c034.txt?raw=true)  |
