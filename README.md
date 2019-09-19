@@ -5,9 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181204第232期 - 阿炳《二泉映月》 | [下载](https://y2mate.com/zh-cn/search/Jn1INKkZVOs) | [下载](zh/201812/e232.srt?raw=true) | [下載](zh/201812/e232.tw.srt?raw=true) |  [下载](zh/201812/e232.txt?raw=true)  |
-|  歷史上的今天20181115第219期 - 馬寅初 | [下载](https://y2mate.com/zh-cn/search/kRzbcONhAtQ) | [下载](zh/201811/e219.srt?raw=true) | [下載](zh/201811/e219.tw.srt?raw=true) |  [下载](zh/201811/e219.txt?raw=true)  |
-|  歷史上的今天20180914第175期 - 達爾文 | [下载](https://y2mate.com/zh-cn/search/UHqO5UZVQo0) | [下载](zh/201809/e175.srt?raw=true) | [下載](zh/201809/e175.tw.srt?raw=true) |  [下载](zh/201809/e175.txt?raw=true)  |
 |  江峰漫談20190918第42期 | [下载](https://y2mate.com/zh-cn/search/u5wI29-383I) | [下载](zh/201909/c042.srt?raw=true) | [下載](zh/201909/c042.tw.srt?raw=true) |  [下载](zh/201909/c042.txt?raw=true)  |
 |  江峰漫談20190917第41期 | [下载](https://y2mate.com/zh-cn/search/dgf8pF0Rbb4) | [下载](zh/201909/c041.srt?raw=true) | [下載](zh/201909/c041.tw.srt?raw=true) |  [下载](zh/201909/c041.txt?raw=true)  |
 |  历史上的今天20190916第373期 - 伯格理牛皮大的学校 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e373.srt?raw=true) | [下載](zh/201909/e373.tw.srt?raw=true) |  [下载](zh/201909/e373.txt?raw=true)  |
