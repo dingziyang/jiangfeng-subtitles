@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20190921第44期 | [下载](https://y2mate.com/zh-cn/search/6r3gveB0ehE) | [下载](zh/201909/c044.srt?raw=true) | [下載](zh/201909/c044.tw.srt?raw=true) |  [下载](zh/201909/c044.txt?raw=true)  |
 |  江峰漫談20190920第43期 | [下载](https://y2mate.com/zh-cn/search/nltn6tni-nI) | [下载](zh/201909/c043.srt?raw=true) | [下載](zh/201909/c043.tw.srt?raw=true) |  [下载](zh/201909/c043.txt?raw=true)  |
 |  历史上的今天20190917第374期 - 美國制憲會議 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201909/e374.srt?raw=true) | [下載](zh/201909/e374.tw.srt?raw=true) |  [下载](zh/201909/e374.txt?raw=true)  |
 |  江峰漫談20190918第42期 | [下载](https://y2mate.com/zh-cn/search/u5wI29-383I) | [下载](zh/201909/c042.srt?raw=true) | [下載](zh/201909/c042.tw.srt?raw=true) |  [下载](zh/201909/c042.txt?raw=true)  |
