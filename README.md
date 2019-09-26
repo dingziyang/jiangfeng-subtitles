@@ -5,7 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  江峰漫談20190924第46期 | [下载](https://y2mate.com/zh-cn/search/SzDFIpzsvn4) | [下载](zh/201909/c046.srt?raw=true) | [下載](zh/201909/c046.tw.srt?raw=true) |  [下载](zh/201909/c046.txt?raw=true)  |
+|  川普推推推20190925第25期 | [下载](https://y2mate.com/zh-cn/search/ZjHY0Wx6Zg8) | [下载](zh/201909/t025.srt?raw=true) | [下載](zh/201909/t025.tw.srt?raw=true) |  [下载](zh/201909/t025.txt?raw=true)  |
 |  江峰漫談20190923第45期 | [下载](https://y2mate.com/zh-cn/search/z9Ife1WMTV0) | [下载](zh/201909/c045.srt?raw=true) | [下載](zh/201909/c045.tw.srt?raw=true) |  [下载](zh/201909/c045.txt?raw=true)  |
 |  江峰漫談20190921第44期 | [下载](https://y2mate.com/zh-cn/search/6r3gveB0ehE) | [下载](zh/201909/c044.srt?raw=true) | [下載](zh/201909/c044.tw.srt?raw=true) |  [下载](zh/201909/c044.txt?raw=true)  |
 |  江峰漫談20190920第43期 | [下载](https://y2mate.com/zh-cn/search/nltn6tni-nI) | [下载](zh/201909/c043.srt?raw=true) | [下載](zh/201909/c043.tw.srt?raw=true) |  [下载](zh/201909/c043.txt?raw=true)  |
