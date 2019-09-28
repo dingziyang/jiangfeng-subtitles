@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20190928第375期 - 70年民族劫難《第一集》 | [下载](https://y2mate.com/zh-cn/search/iFtXHXI9JYg) | [下载](zh/201909/e375.srt?raw=true) | [下載](zh/201909/e375.tw.srt?raw=true) |  [下载](zh/201909/e375.txt?raw=true)  |
 |  江峰漫談20190926第47期 | [下载](https://y2mate.com/zh-cn/search/p8Z8rMnRzpY) | [下载](zh/201909/c047.srt?raw=true) | [下載](zh/201909/c047.tw.srt?raw=true) |  [下载](zh/201909/c047.txt?raw=true)  |
 |  川普推推推20190925第25期 | [下载](https://y2mate.com/zh-cn/search/ZjHY0Wx6Zg8) | [下载](zh/201909/t025.srt?raw=true) | [下載](zh/201909/t025.tw.srt?raw=true) |  [下载](zh/201909/t025.txt?raw=true)  |
 |  江峰漫談20190924第46期 | [下载](https://y2mate.com/zh-cn/search/SzDFIpzsvn4) | [下载](zh/201909/c046.srt?raw=true) | [下載](zh/201909/c046.tw.srt?raw=true) |  [下载](zh/201909/c046.txt?raw=true)  |
