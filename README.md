@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  历史上的今天20191001第376期 - 70年民族劫難《二》 | [下载](https://y2mate.com/zh-cn/search/KEpY9ojekZU) | [下载](zh/201910/e376.srt?raw=true) | [下載](zh/201910/e376.tw.srt?raw=true) |  [下载](zh/201910/e376.txt?raw=true)  |
 |  川普推推推20190930第26期 | [下载](https://y2mate.com/zh-cn/search/dAmgBA9skDk) | [下载](zh/201909/t026.srt?raw=true) | [下載](zh/201909/t026.tw.srt?raw=true) |  [下载](zh/201909/t026.txt?raw=true)  |
 |  歷史上的今天20190928第375期 - 70年民族劫難《第一集》 | [下载](https://y2mate.com/zh-cn/search/iFtXHXI9JYg) | [下载](zh/201909/e375.srt?raw=true) | [下載](zh/201909/e375.tw.srt?raw=true) |  [下载](zh/201909/e375.txt?raw=true)  |
 |  江峰漫談20190926第47期 | [下载](https://y2mate.com/zh-cn/search/p8Z8rMnRzpY) | [下载](zh/201909/c047.srt?raw=true) | [下載](zh/201909/c047.tw.srt?raw=true) |  [下载](zh/201909/c047.txt?raw=true)  |
