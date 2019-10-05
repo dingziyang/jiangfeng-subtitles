@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191004第50期 | [下载](https://y2mate.com/zh-cn/search/TghE8ssCbyc) | [下载](zh/201910/c050.srt?raw=true) | [下載](zh/201910/c050.tw.srt?raw=true) |  [下载](zh/201910/c050.txt?raw=true)  |
 |  江峰漫談20191003第49期 | [下载](https://y2mate.com/zh-cn/search/Gfsa40wQbw0) | [下载](zh/201910/c049.srt?raw=true) | [下載](zh/201910/c049.tw.srt?raw=true) |  [下载](zh/201910/c049.txt?raw=true)  |
 |  江峰漫談20191002第48期 | [下载](https://y2mate.com/zh-cn/search/NIN1VQCw12c) | [下载](zh/201910/c048.srt?raw=true) | [下載](zh/201910/c048.tw.srt?raw=true) |  [下载](zh/201910/c048.txt?raw=true)  |
 |  歷史上的今天20180913第174期 - 米開朗基羅大衛雕像 | [下载](https://y2mate.com/zh-cn/search/7zxXMIah6s4) | [下载](zh/201910/e174.srt?raw=true) | [下載](zh/201910/e174.tw.srt?raw=true) |  [下载](zh/201910/e174.txt?raw=true)  |
