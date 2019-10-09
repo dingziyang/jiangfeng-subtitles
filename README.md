@@ -271,6 +271,7 @@
 |  歷史上的今天20181018第199期 - 吉鴻昌 | [下载](https://y2mate.com/zh-cn/search/VNMWSu17LIo) | [下载](zh/201810/e199.srt?raw=true) | [下載](zh/201810/e199.tw.srt?raw=true) |  [下载](zh/201810/e199.txt?raw=true)  |
 |  歷史上的今天20181015第196期 - 习仲勋 | [下载](https://y2mate.com/zh-cn/search/h_B3k988Eck) | [下载](zh/201810/e196.srt?raw=true) | [下載](zh/201810/e196.tw.srt?raw=true) |  [下载](zh/201810/e196.txt?raw=true)  |
 |  歷史上的今天20181010第193期 - 林语堂 | [下载](https://y2mate.com/zh-cn/search/tNnkTayTGlA) | [下载](zh/201810/e193.srt?raw=true) | [下載](zh/201810/e193.tw.srt?raw=true) |  [下载](zh/201810/e193.txt?raw=true)  |
+|  歷史上的今天20181008第191期 - 勃蘭特的華沙之跪 | [下载](https://y2mate.com/zh-cn/search/KoZEPeyjCPM) | [下载](zh/201810/e191.srt?raw=true) | [下載](zh/201810/e191.tw.srt?raw=true) |  [下载](zh/201810/e191.txt?raw=true)  |
 |  歷史上的今天20180924第181期 - 中英香港问题高峰会 | [下载](https://y2mate.com/zh-cn/search/D4M-TDWuU4A) | [下载](zh/201809/e181.srt?raw=true) | [下載](zh/201809/e181.tw.srt?raw=true) |  [下载](zh/201809/e181.txt?raw=true)  |
 |  歷史上的今天20180920第179期 - 建国门血案 | [下载](https://y2mate.com/zh-cn/search/oi1gzFRePVw) | [下载](zh/201809/e179.srt?raw=true) | [下載](zh/201809/e179.tw.srt?raw=true) |  [下载](zh/201809/e179.txt?raw=true)  |
 |  歷史上的今天20180914第175期 - 達爾文 | [下载](https://y2mate.com/zh-cn/search/UHqO5UZVQo0) | [下载](zh/201809/e175.srt?raw=true) | [下載](zh/201809/e175.tw.srt?raw=true) |  [下载](zh/201809/e175.txt?raw=true)  |
