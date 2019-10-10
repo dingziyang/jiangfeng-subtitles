@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20181008第191期 - 勃蘭特的華沙之跪 | [下载](https://y2mate.com/zh-cn/search/KoZEPeyjCPM) | [下载](zh/201810/e191.srt?raw=true) | [下載](zh/201810/e191.tw.srt?raw=true) |  [下载](zh/201810/e191.txt?raw=true)  |
 |  江峰漫談20191010第52期 | [下载](https://y2mate.com/zh-cn/search/tWGRf3a7LeI) | [下载](zh/201910/c052.srt?raw=true) | [下載](zh/201910/c052.tw.srt?raw=true) |  [下载](zh/201910/c052.txt?raw=true)  |
 |  江峰漫談20191007第51期 | [下载](https://y2mate.com/zh-cn/search/PmNMLTiWI-E) | [下载](zh/201910/c051.srt?raw=true) | [下載](zh/201910/c051.tw.srt?raw=true) |  [下载](zh/201910/c051.txt?raw=true)  |
 |  江峰漫談20191004第50期 | [下载](https://y2mate.com/zh-cn/search/TghE8ssCbyc) | [下载](zh/201910/c050.srt?raw=true) | [下載](zh/201910/c050.tw.srt?raw=true) |  [下载](zh/201910/c050.txt?raw=true)  |
