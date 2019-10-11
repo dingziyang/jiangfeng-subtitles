@@ -5,7 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181206第234期 - 西單民主牆 | [下载](https://y2mate.com/zh-cn/search/Nd2uEes4IcY) | [下载](zh/201812/e234.srt?raw=true) | [下載](zh/201812/e234.tw.srt?raw=true) |  [下载](zh/201812/e234.txt?raw=true)  |
 |  川普推推推20191010第27期 | [下载](https://y2mate.com/zh-cn/search/Y9gh4TD7WDk) | [下载](zh/201910/t027.srt?raw=true) | [下載](zh/201910/t027.tw.srt?raw=true) |  [下载](zh/201910/t027.txt?raw=true)  |
 |  江峰漫談20191010第52期 | [下载](https://y2mate.com/zh-cn/search/tWGRf3a7LeI) | [下载](zh/201910/c052.srt?raw=true) | [下載](zh/201910/c052.tw.srt?raw=true) |  [下载](zh/201910/c052.txt?raw=true)  |
 |  江峰漫談20191007第51期 | [下载](https://y2mate.com/zh-cn/search/PmNMLTiWI-E) | [下载](zh/201910/c051.srt?raw=true) | [下載](zh/201910/c051.tw.srt?raw=true) |  [下载](zh/201910/c051.txt?raw=true)  |
@@ -262,6 +261,7 @@
 |  歷史上的今天20181204第232期 - 阿炳《二泉映月》 | [下载](https://y2mate.com/zh-cn/search/Jn1INKkZVOs) | [下载](zh/201812/e232.srt?raw=true) | [下載](zh/201812/e232.tw.srt?raw=true) |  [下载](zh/201812/e232.txt?raw=true)  |
 |  历史上的今天20181203第231期 - 庚子赔款 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e231.srt?raw=true) | [下載](zh/201812/e231.tw.srt?raw=true) |  [下载](zh/201812/e231.txt?raw=true)  |
 |  歷史上的今天20181129第229期 - 高爾基 | [下载](https://y2mate.com/zh-cn/search/NWDWOU7H0zs) | [下载](zh/201811/e229.srt?raw=true) | [下載](zh/201811/e229.tw.srt?raw=true) |  [下载](zh/201811/e229.txt?raw=true)  |
+|  歷史上的今天20181128第228期 - 越南戰爭 | [下载](https://y2mate.com/zh-cn/search/H54pwtWHpyE) | [下载](zh/201811/e228.srt?raw=true) | [下載](zh/201811/e228.tw.srt?raw=true) |  [下载](zh/201811/e228.txt?raw=true)  |
 |  歷史上的今天20181127第227期 - 中美合作所与渣滓洞屠杀 | [下载](https://y2mate.com/zh-cn/search/NXMTm2M6z28) | [下载](zh/201811/e227.srt?raw=true) | [下載](zh/201811/e227.tw.srt?raw=true) |  [下载](zh/201811/e227.txt?raw=true)  |
 |  歷史上的今天20181123第225期 - 拉貝日記 | [下载](https://y2mate.com/zh-cn/search/rK_EVVVQfBs) | [下载](zh/201811/e225.srt?raw=true) | [下載](zh/201811/e225.tw.srt?raw=true) |  [下载](zh/201811/e225.txt?raw=true)  |
 |  歷史上的今天20181119第221期 - 印尼排華 | [下载](https://y2mate.com/zh-cn/search/h7eB-pRfEI0) | [下载](zh/201811/e221.srt?raw=true) | [下載](zh/201811/e221.tw.srt?raw=true) |  [下载](zh/201811/e221.txt?raw=true)  |
