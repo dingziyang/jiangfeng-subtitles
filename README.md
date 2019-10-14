@@ -5,8 +5,6 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
-|  歷史上的今天20181206第234期 - 西單民主牆 | [下载](https://y2mate.com/zh-cn/search/Nd2uEes4IcY) | [下载](zh/201812/e234.srt?raw=true) | [下載](zh/201812/e234.tw.srt?raw=true) |  [下载](zh/201812/e234.txt?raw=true)  |
-|  歷史上的今天20181128第228期 - 越南戰爭 | [下载](https://y2mate.com/zh-cn/search/H54pwtWHpyE) | [下载](zh/201811/e228.srt?raw=true) | [下載](zh/201811/e228.tw.srt?raw=true) |  [下载](zh/201811/e228.txt?raw=true)  |
 |  江峰漫談20191012第53期 | [下载](https://y2mate.com/zh-cn/search/SJrhHJVLZSo) | [下载](zh/201910/c053.srt?raw=true) | [下載](zh/201910/c053.tw.srt?raw=true) |  [下载](zh/201910/c053.txt?raw=true)  |
 |  川普推推推20191010第27期 | [下载](https://y2mate.com/zh-cn/search/Y9gh4TD7WDk) | [下载](zh/201910/t027.srt?raw=true) | [下載](zh/201910/t027.tw.srt?raw=true) |  [下载](zh/201910/t027.txt?raw=true)  |
 |  江峰漫談20191010第52期 | [下载](https://y2mate.com/zh-cn/search/tWGRf3a7LeI) | [下载](zh/201910/c052.srt?raw=true) | [下載](zh/201910/c052.tw.srt?raw=true) |  [下载](zh/201910/c052.txt?raw=true)  |
@@ -254,6 +252,7 @@
 |  歷史上的今天20181227第249期 - 抗日名将薛岳 | [下载](https://y2mate.com/zh-cn/search/1MgMo3jG4as) | [下载](zh/201812/e249.srt?raw=true) | [下載](zh/201812/e249.tw.srt?raw=true) |  [下载](zh/201812/e249.txt?raw=true)  |
 |  歷史上的今天20181226第248期 - 蘇聯解體 | [下载](https://y2mate.com/zh-cn/search/sZLxdtXVtBk) | [下载](zh/201812/e248.srt?raw=true) | [下載](zh/201812/e248.tw.srt?raw=true) |  [下载](zh/201812/e248.txt?raw=true)  |
 |  歷史上的今天20181225第247期 - 齊奧塞斯庫 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e247.srt?raw=true) | [下載](zh/201812/e247.tw.srt?raw=true) |  [下载](zh/201812/e247.txt?raw=true)  |
+|  歷史上的今天20181224第246期 - 圣诞节 | [下载](https://y2mate.com/zh-cn/search/XBMTqxc_F1I) | [下载](zh/201812/e246.srt?raw=true) | [下載](zh/201812/e246.tw.srt?raw=true) |  [下载](zh/201812/e246.txt?raw=true)  |
 |  歷史上的今天20181220第244期 - 傅斯年 | [下载](https://y2mate.com/zh-cn/search/xg3Oj_4JjPc) | [下载](zh/201812/e244.srt?raw=true) | [下載](zh/201812/e244.tw.srt?raw=true) |  [下载](zh/201812/e244.txt?raw=true)  |
 |  歷史上的今天20181217第241期 - 奧巴馬 | [下载](https://y2mate.com/zh-cn/search/itaOr-JtOrc) | [下载](zh/201812/e241.srt?raw=true) | [下載](zh/201812/e241.tw.srt?raw=true) |  [下载](zh/201812/e241.txt?raw=true)  |
 |  歷史上的今天20181214第240期 - 三峽大壩的終極命運 | [下载](https://y2mate.com/zh-cn/search/suRggjjijhI) | [下载](zh/201812/e240.srt?raw=true) | [下載](zh/201812/e240.tw.srt?raw=true) |  [下载](zh/201812/e240.txt?raw=true)  |
