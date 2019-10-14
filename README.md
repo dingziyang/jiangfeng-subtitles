@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20191014第377期 - 70年民族劫難《三》 | [下载](https://y2mate.com/zh-cn/search/W-QYyO-AmLk) | [下载](zh/201910/e377.srt?raw=true) | [下載](zh/201910/e377.tw.srt?raw=true) |  [下载](zh/201910/e377.txt?raw=true)  |
 |  江峰漫談20191012第53期 | [下载](https://y2mate.com/zh-cn/search/SJrhHJVLZSo) | [下载](zh/201910/c053.srt?raw=true) | [下載](zh/201910/c053.tw.srt?raw=true) |  [下载](zh/201910/c053.txt?raw=true)  |
 |  川普推推推20191010第27期 | [下载](https://y2mate.com/zh-cn/search/Y9gh4TD7WDk) | [下载](zh/201910/t027.srt?raw=true) | [下載](zh/201910/t027.tw.srt?raw=true) |  [下载](zh/201910/t027.txt?raw=true)  |
 |  江峰漫談20191010第52期 | [下载](https://y2mate.com/zh-cn/search/tWGRf3a7LeI) | [下载](zh/201910/c052.srt?raw=true) | [下載](zh/201910/c052.tw.srt?raw=true) |  [下载](zh/201910/c052.txt?raw=true)  |
@@ -15,7 +16,7 @@
 |  歷史上的今天20180913第174期 - 米開朗基羅大衛雕像 | [下载](https://y2mate.com/zh-cn/search/7zxXMIah6s4) | [下载](zh/201910/e174.srt?raw=true) | [下載](zh/201910/e174.tw.srt?raw=true) |  [下载](zh/201910/e174.txt?raw=true)  |
 |  历史上的今天20191001第376期 - 70年民族劫難《二》 | [下载](https://y2mate.com/zh-cn/search/KEpY9ojekZU) | [下载](zh/201910/e376.srt?raw=true) | [下載](zh/201910/e376.tw.srt?raw=true) |  [下载](zh/201910/e376.txt?raw=true)  |
 |  川普推推推20190930第26期 | [下载](https://y2mate.com/zh-cn/search/dAmgBA9skDk) | [下载](zh/201909/t026.srt?raw=true) | [下載](zh/201909/t026.tw.srt?raw=true) |  [下载](zh/201909/t026.txt?raw=true)  |
-|  歷史上的今天20190928第375期 - 70年民族劫難《第一集》 | [下载](https://y2mate.com/zh-cn/search/iFtXHXI9JYg) | [下载](zh/201909/e375.srt?raw=true) | [下載](zh/201909/e375.tw.srt?raw=true) |  [下载](zh/201909/e375.txt?raw=true)  |
+|  歷史上的今天20190928第375期 - 70年民族劫難《一》 | [下载](https://y2mate.com/zh-cn/search/iFtXHXI9JYg) | [下载](zh/201909/e375.srt?raw=true) | [下載](zh/201909/e375.tw.srt?raw=true) |  [下载](zh/201909/e375.txt?raw=true)  |
 |  江峰漫談20190926第47期 | [下载](https://y2mate.com/zh-cn/search/p8Z8rMnRzpY) | [下载](zh/201909/c047.srt?raw=true) | [下載](zh/201909/c047.tw.srt?raw=true) |  [下载](zh/201909/c047.txt?raw=true)  |
 |  川普推推推20190925第25期 | [下载](https://y2mate.com/zh-cn/search/ZjHY0Wx6Zg8) | [下载](zh/201909/t025.srt?raw=true) | [下載](zh/201909/t025.tw.srt?raw=true) |  [下载](zh/201909/t025.txt?raw=true)  |
 |  江峰漫談20190924第46期 | [下载](https://y2mate.com/zh-cn/search/SzDFIpzsvn4) | [下载](zh/201909/c046.srt?raw=true) | [下載](zh/201909/c046.tw.srt?raw=true) |  [下载](zh/201909/c046.txt?raw=true)  |
