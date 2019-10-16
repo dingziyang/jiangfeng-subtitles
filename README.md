@@ -252,6 +252,7 @@
 |  歷史上的今天20190102第253期 - 羅盛教 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e253.srt?raw=true) | [下載](zh/201901/e253.tw.srt?raw=true) |  [下载](zh/201901/e253.txt?raw=true)  |
 |  歷史上的今天20190101第252期 - 歐元發行 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201901/e252.srt?raw=true) | [下載](zh/201901/e252.tw.srt?raw=true) |  [下载](zh/201901/e252.txt?raw=true)  |
 |  歷史上的今天20181231第251期 - 維也納新年音樂 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e251.srt?raw=true) | [下載](zh/201812/e251.tw.srt?raw=true) |  [下载](zh/201812/e251.txt?raw=true)  |
+|  歷史上的今天20181228第250期 - 王洛賓 | [下载](https://y2mate.com/zh-cn/search/fWwYaMEwfz8) | [下载](zh/201812/e250.srt?raw=true) | [下載](zh/201812/e250.tw.srt?raw=true) |  [下载](zh/201812/e250.txt?raw=true)  |
 |  歷史上的今天20181227第249期 - 抗日名将薛岳 | [下载](https://y2mate.com/zh-cn/search/1MgMo3jG4as) | [下载](zh/201812/e249.srt?raw=true) | [下載](zh/201812/e249.tw.srt?raw=true) |  [下载](zh/201812/e249.txt?raw=true)  |
 |  歷史上的今天20181226第248期 - 蘇聯解體 | [下载](https://y2mate.com/zh-cn/search/sZLxdtXVtBk) | [下载](zh/201812/e248.srt?raw=true) | [下載](zh/201812/e248.tw.srt?raw=true) |  [下载](zh/201812/e248.txt?raw=true)  |
 |  歷史上的今天20181225第247期 - 齊奧塞斯庫 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201812/e247.srt?raw=true) | [下載](zh/201812/e247.tw.srt?raw=true) |  [下载](zh/201812/e247.txt?raw=true)  |
