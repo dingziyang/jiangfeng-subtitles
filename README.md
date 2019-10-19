@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191018第55期 | [下载](https://y2mate.com/zh-cn/search/3HUUZt0PPGU) | [下载](zh/201910/c055.srt?raw=true) | [下載](zh/201910/c055.tw.srt?raw=true) |  [下载](zh/201910/c055.txt?raw=true)  |
 |  江峰漫談20191017第54期 | [下载](https://y2mate.com/zh-cn/search/cTvTisEoEpw) | [下载](zh/201910/c054.srt?raw=true) | [下載](zh/201910/c054.tw.srt?raw=true) |  [下载](zh/201910/c054.txt?raw=true)  |
 |  歷史上的今天20191016第379期 - 70年民族劫難《五》 | [下载](https://y2mate.com/zh-cn/search/xUvPUKVEHYY) | [下载](zh/201910/e379.srt?raw=true) | [下載](zh/201910/e379.tw.srt?raw=true) |  [下载](zh/201910/e379.txt?raw=true)  |
 |  歷史上的今天20191015第378期 - 70年民族劫難《四》 | [下载](https://y2mate.com/zh-cn/search/tim14bti-Gs) | [下载](zh/201910/e378.srt?raw=true) | [下載](zh/201910/e378.tw.srt?raw=true) |  [下载](zh/201910/e378.txt?raw=true)  |
