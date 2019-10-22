@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  歷史上的今天20181228第250期 - 王洛賓 | [下载](https://y2mate.com/zh-cn/search/fWwYaMEwfz8) | [下载](zh/201812/e250.srt?raw=true) | [下載](zh/201812/e250.tw.srt?raw=true) |  [下载](zh/201812/e250.txt?raw=true)  |
 |  江峰漫談20191021第56期 | [下载](https://y2mate.com/zh-cn/search/KWxKGtGELho) | [下载](zh/201910/c056.srt?raw=true) | [下載](zh/201910/c056.tw.srt?raw=true) |  [下载](zh/201910/c056.txt?raw=true)  |
 |  締造美國（一） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201910/america-s1e01.srt?raw=true) | [下載](zh/201910/america-s1e01.tw.srt?raw=true) |  [下载](zh/201910/america-s1e01.txt?raw=true)  |
 |  江峰漫談20191018第55期 | [下载](https://y2mate.com/zh-cn/search/3HUUZt0PPGU) | [下载](zh/201910/c055.srt?raw=true) | [下載](zh/201910/c055.tw.srt?raw=true) |  [下载](zh/201910/c055.txt?raw=true)  |
