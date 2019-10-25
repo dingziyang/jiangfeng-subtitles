@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+| 今天有事，来不及完成，明天早上应该可以 |---|---|---|---|
 |  江峰漫談20191023第57期 | [下载](https://y2mate.com/zh-cn/search/bEOO6Xd_IjM) | [下载](zh/201910/c057.srt?raw=true) | [下載](zh/201910/c057.tw.srt?raw=true) |  [下载](zh/201910/c057.txt?raw=true)  |
 |  江峰漫談20191021第56期 | [下载](https://y2mate.com/zh-cn/search/KWxKGtGELho) | [下载](zh/201910/c056.srt?raw=true) | [下載](zh/201910/c056.tw.srt?raw=true) |  [下载](zh/201910/c056.txt?raw=true)  |
 |  締造美國（一） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201910/america-s1e01.srt?raw=true) | [下載](zh/201910/america-s1e01.tw.srt?raw=true) |  [下载](zh/201910/america-s1e01.txt?raw=true)  |
