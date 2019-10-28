@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20191027第28期 | [下载](https://y2mate.com/zh-cn/search/HBWZigtAuVQ) | [下载](zh/201910/t028.srt?raw=true) | [下載](zh/201910/t028.tw.srt?raw=true) |  [下载](zh/201910/t028.txt?raw=true)  |
 |  締造美國（二） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201910/america-s1e02.srt?raw=true) | [下載](zh/201910/america-s1e02.tw.srt?raw=true) |  [下载](zh/201910/america-s1e02.txt?raw=true)  |
 |  江峰漫談20191024第20191024第58期 | [下载](https://y2mate.com/zh-cn/search/QyKFnPX44Fo) | [下载](zh/201910/c058.srt?raw=true) | [下載](zh/201910/c058.tw.srt?raw=true) |  [下载](zh/201910/c058.txt?raw=true)  |
 |  江峰漫談20191023第57期 | [下载](https://y2mate.com/zh-cn/search/bEOO6Xd_IjM) | [下载](zh/201910/c057.srt?raw=true) | [下載](zh/201910/c057.tw.srt?raw=true) |  [下载](zh/201910/c057.txt?raw=true)  |
