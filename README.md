@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  70年民族劫難《七》 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/e381.srt?raw=true) | [下載](zh/201911/e381.tw.srt?raw=true) |  [下载](zh/201911/e381.txt?raw=true)  |
 |  締造美國（三） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/america-s1e03.srt?raw=true) | [下載](zh/201911/america-s1e03.tw.srt?raw=true) |  [下载](zh/201911/america-s1e03.txt?raw=true)  |
 |  歷史上的今天20191029第380期 - 70年民族劫難《六》 | [下载](https://y2mate.com/zh-cn/search/tFkUqwrnzxI) | [下载](zh/201910/e380.srt?raw=true) | [下載](zh/201910/e380.tw.srt?raw=true) |  [下载](zh/201910/e380.txt?raw=true)  |
 |  川普推推推20191027第28期 | [下载](https://y2mate.com/zh-cn/search/HBWZigtAuVQ) | [下载](zh/201910/t028.srt?raw=true) | [下載](zh/201910/t028.tw.srt?raw=true) |  [下载](zh/201910/t028.txt?raw=true)  |
