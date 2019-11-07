@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191106第61期 | [下载](https://y2mate.com/zh-cn/search/nVV932LP6I0) | [下载](zh/201911/c061.srt?raw=true) | [下載](zh/201911/c061.tw.srt?raw=true) |  [下载](zh/201911/c061.txt?raw=true)  |
 |  江峰漫談20191105第60期 | [下载](https://y2mate.com/zh-cn/search/xekpQxPMT1w) | [下载](zh/201911/c060.srt?raw=true) | [下載](zh/201911/c060.tw.srt?raw=true) |  [下载](zh/201911/c060.txt?raw=true)  |
 |  江峰漫談20191104第59期 | [下载](https://y2mate.com/zh-cn/search/atOiJXQsLis) | [下载](zh/201911/c059.srt?raw=true) | [下載](zh/201911/c059.tw.srt?raw=true) |  [下载](zh/201911/c059.txt?raw=true)  |
 |  70年民族劫難《七》 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/e381.srt?raw=true) | [下載](zh/201911/e381.tw.srt?raw=true) |  [下载](zh/201911/e381.txt?raw=true)  |
