@@ -5,13 +5,14 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  70年民族劫難《八》 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/e382.srt?raw=true) | [下載](zh/201911/e382.tw.srt?raw=true) |  [下载](zh/201911/e382.txt?raw=true)  |
 |  締造美國（四） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/america-s1e04.srt?raw=true) | [下載](zh/201911/america-s1e04.tw.srt?raw=true) |  [下载](zh/201911/america-s1e04.txt?raw=true)  |
 |  江峰漫談20191108第62期 | [下载](https://y2mate.com/zh-cn/search/gmu69gyjs1U) | [下载](zh/201911/c062.srt?raw=true) | [下載](zh/201911/c062.tw.srt?raw=true) |  [下载](zh/201911/c062.txt?raw=true)  |
 |  川普推推推20191107第29期 | [下载](https://y2mate.com/zh-cn/search/Pss0FyZEvno) | [下载](zh/201911/t029.srt?raw=true) | [下載](zh/201911/t029.tw.srt?raw=true) |  [下载](zh/201911/t029.txt?raw=true)  |
 |  江峰漫談20191106第61期 | [下载](https://y2mate.com/zh-cn/search/nVV932LP6I0) | [下载](zh/201911/c061.srt?raw=true) | [下載](zh/201911/c061.tw.srt?raw=true) |  [下载](zh/201911/c061.txt?raw=true)  |
 |  江峰漫談20191105第60期 | [下载](https://y2mate.com/zh-cn/search/xekpQxPMT1w) | [下载](zh/201911/c060.srt?raw=true) | [下載](zh/201911/c060.tw.srt?raw=true) |  [下载](zh/201911/c060.txt?raw=true)  |
 |  江峰漫談20191104第59期 | [下载](https://y2mate.com/zh-cn/search/atOiJXQsLis) | [下载](zh/201911/c059.srt?raw=true) | [下載](zh/201911/c059.tw.srt?raw=true) |  [下载](zh/201911/c059.txt?raw=true)  |
-|  70年民族劫難《七》 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/e381.srt?raw=true) | [下載](zh/201911/e381.tw.srt?raw=true) |  [下载](zh/201911/e381.txt?raw=true)  |
+|  70年民族劫難《七》 | [下载](https://y2mate.com/zh-cn/search/Ed3DgXCqY_Y) | [下载](zh/201911/e381.srt?raw=true) | [下載](zh/201911/e381.tw.srt?raw=true) |  [下载](zh/201911/e381.txt?raw=true)  |
 |  締造美國（三） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/america-s1e03.srt?raw=true) | [下載](zh/201911/america-s1e03.tw.srt?raw=true) |  [下载](zh/201911/america-s1e03.txt?raw=true)  |
 |  歷史上的今天20191029第380期 - 70年民族劫難《六》 | [下载](https://y2mate.com/zh-cn/search/tFkUqwrnzxI) | [下载](zh/201910/e380.srt?raw=true) | [下載](zh/201910/e380.tw.srt?raw=true) |  [下载](zh/201910/e380.txt?raw=true)  |
 |  川普推推推20191027第28期 | [下载](https://y2mate.com/zh-cn/search/HBWZigtAuVQ) | [下载](zh/201910/t028.srt?raw=true) | [下載](zh/201910/t028.tw.srt?raw=true) |  [下载](zh/201910/t028.txt?raw=true)  |
