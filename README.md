@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191115第65期 | [下载](https://y2mate.com/zh-cn/search/L8aHN15awag) | [下载](zh/201911/c065.srt?raw=true) | [下載](zh/201911/c065.tw.srt?raw=true) |  [下载](zh/201911/c065.txt?raw=true)  |
 |  江峰漫談20191114第64期 | [下载](https://y2mate.com/zh-cn/search/JutyYvmPktc) | [下载](zh/201911/c064.srt?raw=true) | [下載](zh/201911/c064.tw.srt?raw=true) |  [下载](zh/201911/c064.txt?raw=true)  |
 |  川普推推推20191113第30期 | [下载](https://y2mate.com/zh-cn/search/TkqojYhebMs) | [下载](zh/201911/t030.srt?raw=true) | [下載](zh/201911/t030.tw.srt?raw=true) |  [下载](zh/201911/t030.txt?raw=true)  |
 |  江峰漫谈20191113第63期 | [下载](https://y2mate.com/zh-cn/search/Zm_FbuVG-_Y) | [下载](zh/201911/c063.srt?raw=true) | [下載](zh/201911/c063.tw.srt?raw=true) |  [下载](zh/201911/c063.txt?raw=true)  |
