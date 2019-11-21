@@ -6,6 +6,7 @@
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
 |  江峰漫談20191120第68期 | [下载](https://y2mate.com/zh-cn/search/WrW2w62uvEU) | [下载](zh/201911/c068.srt?raw=true) | [下載](zh/201911/c068.tw.srt?raw=true) |  [下载](zh/201911/c068.txt?raw=true)  |
+|  江峰漫談20191119第67期 | [下载](https://y2mate.com/zh-cn/search/mdlqw0VlZUU) | [下载](zh/201911/c067.srt?raw=true) | [下載](zh/201911/c067.tw.srt?raw=true) |  [下载](zh/201911/c067.txt?raw=true)  |
 |  江峰漫談20191118第66期 | [下载](https://y2mate.com/zh-cn/search/8-VwhgYFejw) | [下载](zh/201911/c066.srt?raw=true) | [下載](zh/201911/c066.tw.srt?raw=true) |  [下载](zh/201911/c066.txt?raw=true)  |
 |  締造美國（五） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/america-s1e05.srt?raw=true) | [下載](zh/201911/america-s1e05.tw.srt?raw=true) |  [下载](zh/201911/america-s1e05.txt?raw=true)  |
 |  江峰漫談20191115第65期 | [下载](https://y2mate.com/zh-cn/search/L8aHN15awag) | [下载](zh/201911/c065.srt?raw=true) | [下載](zh/201911/c065.tw.srt?raw=true) |  [下载](zh/201911/c065.txt?raw=true)  |
