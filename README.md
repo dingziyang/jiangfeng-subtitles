@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191122第70期 | [下载](https://y2mate.com/zh-cn/search/9YUquUriQ-A) | [下载](zh/201911/c070.srt?raw=true) | [下載](zh/201911/c070.tw.srt?raw=true) |  [下载](zh/201911/c070.txt?raw=true)  |
 |  江峰漫談20191120第69期 | [下载](https://y2mate.com/zh-cn/search/qYqlDP0zWGI) | [下载](zh/201911/c069.srt?raw=true) | [下載](zh/201911/c069.tw.srt?raw=true) |  [下载](zh/201911/c069.txt?raw=true)  |
 |  江峰漫談20191120第68期 | [下载](https://y2mate.com/zh-cn/search/WrW2w62uvEU) | [下载](zh/201911/c068.srt?raw=true) | [下載](zh/201911/c068.tw.srt?raw=true) |  [下载](zh/201911/c068.txt?raw=true)  |
 |  江峰漫談20191119第67期 | [下载](https://y2mate.com/zh-cn/search/mdlqw0VlZUU) | [下载](zh/201911/c067.srt?raw=true) | [下載](zh/201911/c067.tw.srt?raw=true) |  [下载](zh/201911/c067.txt?raw=true)  |
