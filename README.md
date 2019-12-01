@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191201第76期 | [下载](https://y2mate.com/zh-cn/search/0ylnxvCKspw) | [下载](zh/201912/c076.srt?raw=true) | [下載](zh/201912/c076.tw.srt?raw=true) |  [下载](zh/201912/c076.txt?raw=true)  |
 |  江峰漫談20191129第75期 | [下载](https://y2mate.com/zh-cn/search/cj-uF0wyhMw) | [下载](zh/201911/c075.srt?raw=true) | [下載](zh/201911/c075.tw.srt?raw=true) |  [下载](zh/201911/c075.txt?raw=true)  |
 |  江峰漫談20191128第74期 | [下载](https://y2mate.com/zh-cn/search/HOaT_TOw2uU) | [下载](zh/201911/c074.srt?raw=true) | [下載](zh/201911/c074.tw.srt?raw=true) |  [下载](zh/201911/c074.txt?raw=true)  |
 |  締造美國（六） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201911/america-s1e06.srt?raw=true) | [下載](zh/201911/america-s1e06.tw.srt?raw=true) |  [下载](zh/201911/america-s1e06.txt?raw=true)  |
