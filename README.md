@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191203第77期 | [下载](https://y2mate.com/zh-cn/search/SIeL7Zj49Jo) | [下载](zh/201912/c077.srt?raw=true) | [下載](zh/201912/c077.tw.srt?raw=true) |  [下载](zh/201912/c077.txt?raw=true)  |
 |  歷史上的今天20191202第383期 | [下载](https://y2mate.com/zh-cn/search/8jOq3J4UOdA) | [下载](zh/201912/e383.srt?raw=true) | [下載](zh/201912/e383.tw.srt?raw=true) |  [下载](zh/201912/e383.txt?raw=true)  |
 |  江峰漫談20191201第76期 | [下载](https://y2mate.com/zh-cn/search/0ylnxvCKspw) | [下载](zh/201912/c076.srt?raw=true) | [下載](zh/201912/c076.tw.srt?raw=true) |  [下载](zh/201912/c076.txt?raw=true)  |
 |  江峰漫談20191129第75期 | [下载](https://y2mate.com/zh-cn/search/cj-uF0wyhMw) | [下载](zh/201911/c075.srt?raw=true) | [下載](zh/201911/c075.tw.srt?raw=true) |  [下载](zh/201911/c075.txt?raw=true)  |
