@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191205第78期 | [下载](https://y2mate.com/zh-cn/search/txQ3Qy-6vrs) | [下载](zh/201912/c078.srt?raw=true) | [下載](zh/201912/c078.tw.srt?raw=true) |  [下载](zh/201912/c078.txt?raw=true)  |
 |  締造美國（七） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201912/america-s1e07.srt?raw=true) | [下載](zh/201912/america-s1e07.tw.srt?raw=true) |  [下载](zh/201912/america-s1e07.txt?raw=true)  |
 |  江峰漫談20191203第77期 | [下载](https://y2mate.com/zh-cn/search/SIeL7Zj49Jo) | [下载](zh/201912/c077.srt?raw=true) | [下載](zh/201912/c077.tw.srt?raw=true) |  [下载](zh/201912/c077.txt?raw=true)  |
 |  歷史上的今天20191202第383期 | [下载](https://y2mate.com/zh-cn/search/8jOq3J4UOdA) | [下载](zh/201912/e383.srt?raw=true) | [下載](zh/201912/e383.tw.srt?raw=true) |  [下载](zh/201912/e383.txt?raw=true)  |
