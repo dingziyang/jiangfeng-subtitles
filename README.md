@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20191210第31期 | [下载](https://y2mate.com/zh-cn/search/HNakiQtoz1w) | [下载](zh/201912/t031.srt?raw=true) | [下載](zh/201912/t031.tw.srt?raw=true) |  [下载](zh/201912/t031.txt?raw=true)  |
 |  江峰漫談20191209第79期 | [下载](https://y2mate.com/zh-cn/search/n8QcHFvN_mQ) | [下载](zh/201912/c079.srt?raw=true) | [下載](zh/201912/c079.tw.srt?raw=true) |  [下载](zh/201912/c079.txt?raw=true)  |
 |  江峰漫談20191205第78期 | [下载](https://y2mate.com/zh-cn/search/txQ3Qy-6vrs) | [下载](zh/201912/c078.srt?raw=true) | [下載](zh/201912/c078.tw.srt?raw=true) |  [下载](zh/201912/c078.txt?raw=true)  |
 |  締造美國（七） | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/201912/america-s1e07.srt?raw=true) | [下載](zh/201912/america-s1e07.tw.srt?raw=true) |  [下载](zh/201912/america-s1e07.txt?raw=true)  |
