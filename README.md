@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  川普推推推20191218第32期 | [下载](https://y2mate.com/zh-cn/search/aLucB615gf8) | [下载](zh/201912/t032.srt?raw=true) | [下載](zh/201912/t032.tw.srt?raw=true) |  [下载](zh/201912/t032.txt?raw=true)  |
 |  歷史上的今天20191217第384期 | [下载](https://y2mate.com/zh-cn/search/QUdrWxU6cHg) | [下载](zh/201912/e384.srt?raw=true) | [下載](zh/201912/e384.tw.srt?raw=true) |  [下载](zh/201912/e384.txt?raw=true)  |
 |  江峰漫談20191213第81期 | [下载](https://y2mate.com/zh-cn/search/R6jt3zLBx68) | [下载](zh/201912/c081.srt?raw=true) | [下載](zh/201912/c081.tw.srt?raw=true) |  [下载](zh/201912/c081.txt?raw=true)  |
 |  江峰漫談20191212第80期 | [下载](https://y2mate.com/zh-cn/search/1QkPeOmpOLU) | [下载](zh/201912/c080.srt?raw=true) | [下載](zh/201912/c080.tw.srt?raw=true) |  [下载](zh/201912/c080.txt?raw=true)  |
