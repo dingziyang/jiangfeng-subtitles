@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20191224第85期 | [下载](https://y2mate.com/zh-cn/search/3liO5nLf0gg) | [下载](zh/201912/c085.srt?raw=true) | [下載](zh/201912/c085.tw.srt?raw=true) |  [下载](zh/201912/c085.txt?raw=true)  |
 |  江峰漫談20191223第84期 | [下载](https://y2mate.com/zh-cn/search/gkiH_nC6lNM) | [下载](zh/201912/c084.srt?raw=true) | [下載](zh/201912/c084.tw.srt?raw=true) |  [下载](zh/201912/c084.txt?raw=true)  |
 |  江峰漫談20191221第83期 | [下载](https://y2mate.com/zh-cn/search/IG4-rd64zmI) | [下载](zh/201912/c083.srt?raw=true) | [下載](zh/201912/c083.tw.srt?raw=true) |  [下载](zh/201912/c083.txt?raw=true)  |
 |  江峰漫談20191219第82期 | [下载](https://y2mate.com/zh-cn/search/VSLbAPhsgoI) | [下载](zh/201912/c082.srt?raw=true) | [下載](zh/201912/c082.tw.srt?raw=true) |  [下载](zh/201912/c082.txt?raw=true)  |
